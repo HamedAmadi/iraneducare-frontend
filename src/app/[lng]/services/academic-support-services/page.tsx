@@ -111,7 +111,6 @@ const Visa = async ({ params: { lng } }: { params: { lng: string; } }) => {
                     <div className="col-span-12 lg:col-span-8">
                         <section className="mb-16">
                             <h2 className="text-3xl text-text font-bold mb-6">{tASS('sub-title')}</h2>
-                            {/* <h3 className="text-2xl text-text mb-6">{tASS('sub-title')}</h3> */}
                             <p className="text-lg text-[#335371] mb-4">{tASS('introduction')}</p>
                         </section>
 
