@@ -1,0 +1,20 @@
+{
+    "title": "Free Consultation",
+    "form-desc": "To receive consultation, register your information so that we can contact you as soon as possible",
+    "second-desc": "You can also ask your questions through our communication channels",
+    "whatsapp": "WhatsApp",
+    "telegram": "Telagram",
+    "email": "Email",
+    "fullName-ph": "Full Name",
+    "email-ph": "Your Email",
+    "mobileNumber-ph": "Your Mobile Number (start with 00)",
+    "description-ph": "Describe your condition and ask your questions",
+    "fullName-required-message": "Enter your full name",
+    "email-required-message": "Enter your email",
+    "email-pattern-message": "Email format is incorrect",
+    "mobileNumber-pattern-message": "Mobile number format is incorrect",
+    "description-required-message": "Please fill out this field",
+    "button-text": "Submit",
+    "success-message": "Your request has been successfully sent",
+    "error-message": "An error has occurred on the server! Please try again"
+  }

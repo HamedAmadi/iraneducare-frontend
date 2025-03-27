@@ -1,0 +1,66 @@
+{
+    "title": "Extracurricular Activities for International Students in Iran",
+    "sub-title": "Enhance Your Student Life Beyond Academics",
+    "introduction": "University life is not just about attending lectures; it’s also about personal growth, networking, and enjoying new experiences. Extracurricular activities provide opportunities for students to develop new skills, meet people, and experience Iranian culture in a fun and engaging way. We offer a wide range of sports, cultural, artistic, and social activities designed to enrich the student experience in Iran.",
+
+    "whyParticipate": {
+        "title": "Why Participate in Extracurricular Activities?",
+        "point1-title": "Achieve a Healthy Study-Life Balance",
+        "point1-desc": "Reduce academic stress and improve well-being.",
+        "point2-title": "Develop New Skills & Talents",
+        "point2-desc": "Improve teamwork, leadership, and communication skills.",
+        "point3-title": "Make New Friends & Expand Your Network",
+        "point3-desc": "Meet students from different backgrounds.",
+        "point4-title": "Explore Iranian Culture & Traditions",
+        "point4-desc": "Experience local events, food, and historical sites."
+    },
+
+    "typesOfActivities": {
+        "title": "Types of Extracurricular Activities Available",
+        "activity1-title": "Cultural & Sightseeing Tours",
+        "activity1-desc": "Visit historical landmarks and experience Persian traditions.",
+        "activity2-title": "Sports & Recreational Events",
+        "activity2-desc": "Join football, basketball, martial arts, and fitness clubs.",
+        "activity3-title": "Artistic & Creative Workshops",
+        "activity3-desc": "Learn Persian calligraphy, traditional music, or photography.",
+        "activity4-title": "Student Clubs & Organizations",
+        "activity4-desc": "Participate in language exchange, volunteer work, and academic clubs.",
+        "activity5-title": "Social & Charity Activities",
+        "activity5-desc": "Engage in community service and social impact programs."
+    },
+
+    "howToGetInvolved": {
+        "title": "How to Get Involved in Extracurricular Activities?",
+        "step1-title": "Explore Available Activities",
+        "step1-desc": "Check the list of clubs, events, and programs offered at your university.",
+        "step2-title": "Register & Join a Group",
+        "step2-desc": "Sign up for activities that match your interests and schedule.",
+        "step3-title": "Participate & Enjoy the Experience",
+        "step3-desc": "Attend events, engage in activities, and meet new people."
+    },
+
+    "whyChooseUs": {
+        "title": "Why Choose Our Extracurricular Programs?",
+        "point1-title": "Diverse range of activities tailored for international students",
+        "point2-title": "Opportunities for personal growth, networking, and cultural exploration",
+        "point3-title": "Fun and interactive learning experiences outside of academics",
+        "point4-title": "A chance to enjoy student life in Iran to the fullest"
+    },
+
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Are these activities open to all international students?",
+        "a1": "Yes, all international students can join and participate in our extracurricular programs.",
+        "q2": "Do I need to pay to join these activities?",
+        "a2": "Some activities are free, while others (such as workshops and tours) may have a small fee.",
+        "q3": "How can I find out about upcoming events?",
+        "a3": "You can check our website, university bulletin boards, or contact our support team.",
+        "q4": "Can I suggest a new activity or event?",
+        "a4": "Yes! We welcome student suggestions and try to organize events based on their interests."
+    },
+
+    "contact": {
+        "title": "Get Involved Today!",
+        "description": "If you want to make the most of your time in Iran, meet new people, and explore new interests, sign up for our extracurricular activities today!"
+    }
+}

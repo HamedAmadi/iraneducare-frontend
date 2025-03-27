@@ -1,0 +1,57 @@
+{
+    "title": "Student Visa for Iran",
+    "sub-title": "Comprehensive Guide for International Students",
+    "visaProcess": {
+      "title": "Steps to Obtain a Student Visa",
+      "desc": "To study at Iranian universities, international students must obtain a student visa. This visa grants them legal entry and residency in Iran for academic purposes. The application process involves multiple steps, requiring specific documents and administrative follow-ups.",
+      "step1": {
+        "title": "Secure Admission from a University",
+        "description": "Before applying for a visa, applicants must receive an official admission letter from a recognized Iranian university. This document confirms their eligibility for the chosen program."
+      },
+      "step2": {
+        "title": "Prepare and Submit Required Documents",
+        "point1": "A valid passport with at least six months of validity",
+        "point2": "Official admission letter from the university",
+        "point3": "Completed visa application form",
+        "point4": "Passport-size photos",
+        "point5": "Certified and translated academic documents",
+        "point6": "Medical health certificate"
+      },
+      "step3": {
+        "title": "Submit Visa Application",
+        "description": "Once all documents are prepared, the visa application must be submitted through the relevant authorities. This step includes document submission and payment of processing fees."
+      },
+      "step4": {
+        "title": "Visa Processing and Issuance",
+        "point1": "After submission, the application undergoes a review by the relevant authorities.",
+        "point2": "If approved, the student visa will be issued. Processing times may vary depending on the applicant’s case and submission timing."
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose Us for Your Student Visa?",
+      "point1-title": "Expert Guidance & Consultation:",
+      "point1-desc": "Complete assistance on visa procedures and requirements.",
+      "point2-title": "Administrative Support:",
+      "point2-desc": "Hassle-free document submission and visa application process.",
+      "point3-title": "Direct Coordination with Universities:",
+      "point3-desc": "Up-to-date admission information and support.",
+      "point4-title": "Faster Visa Processing:",
+      "point4-desc": "Minimized waiting time and reduced delays."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "How long does it take to process a student visa?",
+      "a1": "Processing times vary depending on the applicant’s case, university approval, and submission timing. On average, it may take a few weeks.",
+      "q2": "Can I work while studying in Iran?",
+      "a2": "Student visas are primarily for academic purposes, and work permits may be required for employment. It is advisable to check with the university and local authorities.",
+      "q3": "What happens if my visa application is rejected?",
+      "a3": "If your application is rejected, we can assist in identifying the reasons and guide you through reapplying or providing alternative solutions.",
+      "q4": "Do I need a medical check-up for the student visa?",
+      "a4": "Yes, a medical health certificate is one of the required documents for the application process."
+    },
+    "contact": {
+      "title": "Get Started Today!",
+      "description": "Begin your student visa application process with us. Our expert team is ready to assist you at every stage, ensuring a smooth and efficient experience.",
+      "button": "Start Your Application"
+    }
+  }

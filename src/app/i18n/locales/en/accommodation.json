@@ -1,0 +1,59 @@
+{
+    "title": "Renting Accommodation & Housing for International Students in Iran",
+    "sub-title": "Comfortable & Hassle-Free Stay in Iran",
+    "introduction": "One of the main concerns for international students after receiving university admission is finding suitable accommodation in Iran. We provide comprehensive rental and housing services to help students secure a safe and comfortable place to stay before they arrive in Iran.",
+    
+    "accommodationTypes": {
+      "title": "Types of Accommodation Available",
+      "type1-title": "Student Dormitories",
+      "type1-desc": "Affordable, university-provided accommodation with essential facilities.",
+      "type2-title": "Private Apartments",
+      "type2-desc": "Ideal for students who prefer privacy and independence.",
+      "type3-title": "Shared Housing",
+      "type3-desc": "A budget-friendly option where students can share living spaces.",
+      "type4-title": "Hotel Apartments",
+      "type4-desc": "Short-term stays for students who need temporary housing before settling."
+    },
+  
+    "howItWorks": {
+      "title": "How to Use Our Housing Services?",
+      "step1-title": "Choose Your Preferred Accommodation",
+      "step1-desc": "Based on your budget and needs, we help you select the best housing option.",
+      "step2-title": "Review the Available Listings",
+      "step2-desc": "We provide detailed listings with descriptions, pictures, and prices to help you make an informed decision.",
+      "step3-title": "Finalize Rental Agreements",
+      "step3-desc": "Our team assists with lease agreements, deposits, and other necessary paperwork.",
+      "step4-title": "Move-in Assistance",
+      "step4-desc": "Upon arrival, our team helps you settle into your accommodation smoothly."
+    },
+  
+    "whyUs": {
+      "title": "Why Choose Our Housing Services?",
+      "point1-title": "Wide range of housing options:",
+      "point1-desc": "Dormitories, apartments, and shared housing.",
+      "point2-title": "Complete assistance:",
+      "point2-desc": "From property selection to contract signing.",
+      "point3-title": "Quick and reliable coordination:",
+      "point3-desc": "Secure accommodation before your arrival.",
+      "point4-title": "Transparent pricing:",
+      "point4-desc": "No hidden charges."
+    },
+  
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "Can I reserve accommodation before arriving in Iran?",
+      "a1": "Yes, we offer pre-arrival booking services to ensure a hassle-free transition.",
+      "q2": "Can I change my accommodation after moving in?",
+      "a2": "Yes, you can switch to a different housing option with prior coordination.",
+      "q3": "How much does renting an apartment or dormitory cost?",
+      "a3": "Costs vary based on location, type, and facilities. Contact us for updated pricing.",
+      "q4": "Are short-term rentals available?",
+      "a4": "Yes, we offer temporary housing options, such as furnished apartments and hotel stays."
+    },
+  
+    "contact": {
+      "title": "Book Your Accommodation Now!",
+      "description": "If you are looking for a safe and comfortable place to stay in Iran, we are here to assist you. Contact us today to explore available options!",
+      "button": "Find Your Accommodation"
+    }
+  }

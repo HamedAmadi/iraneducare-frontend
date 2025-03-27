@@ -1,0 +1,67 @@
+{
+    "title": "Social Events & Networking for International Students in Iran",
+    "sub-title": "Build Meaningful Connections & Create Unforgettable Experiences",
+    "introduction": "Studying abroad is not just about academics; it’s also about meeting new people, expanding professional networks, and engaging in social activities. International students in Iran can participate in various social events and networking opportunities to connect with fellow students, university staff, and professionals, helping them enhance their educational and career prospects while enjoying their time in Iran.",
+  
+    "whyParticipate": {
+      "title": "Why Participate in Social Events & Networking?",
+      "point1-title": "Expand Your Social & Professional Circle",
+      "point1-desc": "Meet new friends, professors, and industry experts.",
+      "point2-title": "Gain Career & Academic Opportunities",
+      "point2-desc": "Connect with professionals and potential employers.",
+      "point3-title": "Experience Cultural Exchange & Diversity",
+      "point3-desc": "Interact with students from different backgrounds.",
+      "point4-title": "Develop Communication & Confidence",
+      "point4-desc": "Improve interpersonal skills and public speaking abilities."
+    },
+  
+    "eventTypes": {
+      "title": "Types of Social & Networking Events",
+      "event1-title": "Student Gatherings & Orientation Sessions",
+      "event1-desc": "Events designed to introduce new students to the university community.",
+      "event2-title": "Workshops & Academic Seminars",
+      "event2-desc": "Learning opportunities to gain additional knowledge and skills.",
+      "event3-title": "Cultural & Recreational Programs",
+      "event3-desc": "Participate in festivals, sightseeing tours, and local activities.",
+      "event4-title": "Entrepreneurship & Career Fairs",
+      "event4-desc": "Meet recruiters, learn about job openings, and network with potential employers.",
+      "event5-title": "Professional Networking Meetups",
+      "event5-desc": "Engage with professors, researchers, and industry leaders."
+    },
+  
+    "howToJoin": {
+      "title": "How to Join Social Events & Networking Programs?",
+      "step1-title": "Register & Choose Your Preferred Events",
+      "step1-desc": "Students can browse and sign up for events that match their interests and goals.",
+      "step2-title": "Attend & Connect with New People",
+      "step2-desc": "During events, students interact with their peers, professors, and industry professionals.",
+      "step3-title": "Leverage Opportunities & Build Relationships",
+      "step3-desc": "Connections made during these events can lead to internships, collaborations, and academic growth."
+    },
+  
+    "whyUs": {
+      "title": "Why Choose Our Social Events & Networking Services?",
+      "point1": "Diverse and engaging events tailored for international students.",
+      "point2": "Opportunities to interact with academic and professional figures.",
+      "point3": "Improve social and career prospects through networking.",
+      "point4": "Fun and enriching experiences outside of academic life."
+    },
+  
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "Are these events open to all international students?",
+      "a1": "Yes, most events are designed specifically for international students, but some are open to both local and international participants.",
+      "q2": "How can I register for these events?",
+      "a2": "Students can register via our website or by contacting our support team.",
+      "q3": "Are there any participation fees?",
+      "a3": "Some events are free, while others (such as workshops or professional networking events) may require a registration fee.",
+      "q4": "Can I suggest new events or activities?",
+      "a4": "Yes! We welcome suggestions from students and try to organize events based on their interests."
+    },
+  
+    "contact": {
+      "title": "Join Our Social & Networking Events Today!",
+      "description": "Looking to make new connections, learn from experts, and enjoy student life in Iran? Sign up for our events now!",
+      "button": "Register Now"
+    }
+  }

@@ -1,0 +1,72 @@
+{
+    "title": "Feedback Collection & Service Improvement Mechanism for International Students in Iran",
+    "sub-title": "Your Opinion Matters – Help Us Improve Our Services!",
+    "introduction": "We believe that continuous improvement is only possible with honest feedback from the students we serve. International students in Iran may have different experiences and expectations, and we are committed to listening, evaluating, and enhancing our services based on their feedback. Our structured feedback collection mechanism allows students to share their experiences, suggest improvements, and help shape better services for future students.",
+
+    "whyCollectFeedback": {
+        "title": "Why Collecting Feedback is Important?",
+        "point1-title": "Improves Service Quality",
+        "point1-desc": "Helps us refine and enhance student services.",
+        "point2-title": "Ensures Student Satisfaction",
+        "point2-desc": "Addresses concerns and provides better support.",
+        "point3-title": "Encourages Student Engagement",
+        "point3-desc": "Gives students a voice in shaping their academic experience.",
+        "point4-title": "Promotes Transparency & Accountability",
+        "point4-desc": "Ensures we are always responsive to student needs."
+    },
+
+    "howWeCollectAndUseFeedback": {
+        "title": "How We Collect & Use Feedback?",
+        "method1-title": "Regular Online Surveys",
+        "method1-desc": "Quick and easy forms for students to share their opinions.",
+        "method2-title": "Student Feedback Sessions",
+        "method2-desc": "Organized meetings to discuss experiences and gather insights.",
+        "method3-title": "Anonymous Feedback Options",
+        "method3-desc": "A way for students to express concerns freely.",
+        "method4-title": "Service Rating & Review System",
+        "method4-desc": "Students can rate our services and provide suggestions.",
+        "method5-title": "Direct Consultation & Support",
+        "method5-desc": "One-on-one sessions to address specific concerns."
+    },
+
+    "stepsToProvideFeedback": {
+        "title": "Steps to Provide Feedback & See Improvements",
+        "step1-title": "Submit Your Feedback",
+        "step1-desc": "Students can use online forms, in-person discussions, or direct messaging to share their experiences.",
+        "step2-title": "Review & Analysis of Feedback",
+        "step2-desc": "Our team carefully reviews all feedback to identify key areas for improvement.",
+        "step3-title": "Implementing Necessary Changes",
+        "step3-desc": "We take action based on the feedback received to improve our services.",
+        "step4-title": "Informing Students About Updates",
+        "step4-desc": "We keep students informed about changes made based on their suggestions."
+    },
+
+    "whyChooseOurSystem": {
+        "title": "Why Choose Our Feedback Collection System?",
+        "point1-title": "Easy and accessible feedback submission",
+        "point1-desc": "Students can easily share their feedback through multiple channels.",
+        "point2-title": "Confidential and anonymous options for honest responses",
+        "point2-desc": "Students can provide candid feedback without concerns about privacy.",
+        "point3-title": "Action-oriented approach to real improvements",
+        "point3-desc": "We focus on making tangible changes based on the feedback received.",
+        "point4-title": "Regular updates to students on service enhancements",
+        "point4-desc": "We keep students informed about the changes we implement."
+    },
+
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "How can I submit my feedback?",
+        "a1": "You can fill out our online feedback form, attend a feedback session, or contact us directly.",
+        "q2": "Will my feedback be taken seriously?",
+        "a2": "Yes, every piece of feedback is carefully reviewed, and necessary improvements are made based on student suggestions.",
+        "q3": "Can I submit feedback anonymously?",
+        "a3": "Yes, we offer an anonymous feedback option to ensure complete confidentiality.",
+        "q4": "How will I know if my feedback led to changes?",
+        "a4": "We regularly update students on improvements made based on their feedback."
+    },
+
+    "contact": {
+        "title": "Share Your Feedback Today!",
+        "description": "Help us make student life in Iran better! Submit your feedback now and be a part of the improvement process!"
+    }
+}

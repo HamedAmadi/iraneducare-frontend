@@ -1,0 +1,71 @@
+{
+    "title": "Health Insurance Guidance for International Students in Iran",
+    "sub-title": "Stay Protected & Secure with the Right Health Insurance Plan",
+    "introduction": "Healthcare and medical expenses can be costly, and having proper health insurance is essential for international students studying in Iran. A good health insurance plan helps students access medical services, reduce healthcare costs, and ensure peace of mind during their stay. We provide comprehensive guidance to help students choose and obtain the best insurance plan suited to their needs.",
+  
+    "whyInsurance": {
+        "title": "Why is Health Insurance Important?",
+        "point1-title": "Reduces Medical Costs",
+        "point1-desc": "Covers expenses for doctor visits, medications, and hospital treatments.",
+        "point2-title": "Access to Quality Healthcare",
+        "point2-desc": "Get treatment from hospitals and clinics affiliated with insurance providers.",
+        "point3-title": "Covers Emergency Medical Needs",
+        "point3-desc": "Be financially protected in case of accidents or sudden illnesses.",
+        "point4-title": "Ensures Compliance with University & Visa Requirements",
+        "point4-desc": "Many universities require students to have health insurance."
+    },
+
+    "insuranceTypes": {
+        "title": "Types of Health Insurance Plans Available",
+        "type1-title": "Student Health Insurance",
+        "type1-desc": "Offered by some universities to international students.",
+        "type2-title": "Private Health Insurance",
+        "type2-desc": "Provides wider coverage for students needing advanced healthcare services.",
+        "type3-title": "Social Security Insurance",
+        "type3-desc": "Suitable for students planning a long-term stay in Iran.",
+        "type4-title": "Supplementary Health Insurance",
+        "type4-desc": "Covers additional costs not included in basic insurance plans."
+    },
+
+    "howToApply": {
+        "title": "Steps to Obtain Health Insurance",
+        "step1-title": "Explore Available Insurance Plans",
+        "step1-desc": "We provide detailed information on different health insurance options based on your needs.",
+        "step2-title": "Select the Best Plan for You",
+        "step2-desc": "Our advisors help you choose an insurance policy that fits your budget and medical requirements.",
+        "step3-title": "Complete Registration & Receive Your Insurance Card",
+        "step3-desc": "Once selected, we assist with the registration process so you can start using your insurance.",
+        "step4-title": "Use Medical Services",
+        "step4-desc": "With your health insurance, you can access hospitals, clinics, and pharmacies for necessary treatments."
+    },
+
+    "whyUs": {
+        "title": "Why Choose Our Health Insurance Guidance?",
+        "point1-title": "Up-to-date and Accurate Information",
+        "point1-desc": "We provide the latest details on health insurance policies.",
+        "point2-title": "Personalized Assistance",
+        "point2-desc": "Our team helps you select the best insurance plan suited to your needs.",
+        "point3-title": "Guidance Through Registration",
+        "point3-desc": "We assist with the entire insurance application process.",
+        "point4-title": "Ongoing Support",
+        "point4-desc": "We offer continuous help for medical and insurance-related inquiries."
+    },
+
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Is health insurance mandatory for international students in Iran?",
+        "a1": "Some universities require students to have health insurance, and it is strongly recommended for all students.",
+        "q2": "What medical services are covered by health insurance?",
+        "a2": "Coverage depends on the insurance plan but typically includes doctor visits, hospital stays, medication, and emergency care.",
+        "q3": "How can I renew my health insurance?",
+        "a3": "Most health insurance policies need annual renewal. We help students through the renewal process.",
+        "q4": "Does health insurance cover dental care?",
+        "a4": "Some insurance plans include dental coverage, but this is usually part of supplementary insurance."
+    },
+
+    "contact": {
+        "title": "Get Your Health Insurance Today!",
+        "description": "If you need reliable health insurance while studying in Iran, we are here to assist you. Contact us now to explore your options!",
+        "button": "Explore Health Insurance Options"
+    }
+}

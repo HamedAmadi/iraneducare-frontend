@@ -1,0 +1,1202 @@
+{
+  "title": "Universities",
+  "university-of-tehran": {
+      "title": "University of Tehran",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "The University of Tehran, established in 1934, is the oldest and most prestigious university in Iran. Located in Tehran, it is considered the symbol of higher education in Iran. With a rich history and a significant role in Iran's scientific, cultural, and social developments, the University of Tehran has always been recognized as one of the top universities in the country and the region.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in various scientific fields, the University of Tehran is now one of the largest and most comprehensive universities in Iran. With numerous faculties and research centers, it is a leader in humanities, engineering, medicine, arts, and basic sciences."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in various fields, including social sciences, engineering, and medicine.",
+        "li4": "Collaborating with prestigious global universities and research institutions."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top universities in the world, the University of Tehran strives to contribute to the country's scientific and cultural advancement by providing high-quality education, conducting applied research, and strengthening ties with industry and society. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Electrical and Computer Engineering",
+        "li2": "Faculty of Mechanical Engineering",
+        "li3": "Faculty of Civil Engineering",
+        "li4": "Faculty of Chemical Engineering",
+        "li5": "Faculty of Social Sciences",
+        "li6": "Faculty of Literature and Humanities",
+        "li7": "Faculty of Law and Political Science",
+        "li8": "Faculty of Basic Sciences",
+        "li9": "Faculty of Medicine",
+        "li10": "Faculty of Dentistry",
+        "li11": "Faculty of Pharmacy",
+        "li12": "Faculty of Fine Arts",
+        "li13": "Faculty of Management",
+        "li14": "Faculty of Environmental Sciences",
+        "li15": "Faculty of New Technologies"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Mohammad Ali Najafi",
+        "desc1": "Politician and former Minister of Education.",
+        "name2": "Simin Behbahani",
+        "desc2": "Renowned Iranian poet and writer.",
+        "name3": "Abbas Milani",
+        "desc3": "Prominent historian and researcher.",
+        "name4": "Mohammad Javad Zarif",
+        "desc4": "Diplomat and former Minister of Foreign Affairs of Iran.",
+        "name5": "Farah Pahlavi",
+        "desc5": "Former Queen of Iran and cultural activist."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "The University of Tehran offers well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "The University of Tehran collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of Tehran University",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tehran University is ranked fourth in Iran and ranked 100th in Asia."
+      }
+  },
+  "amirkabir-university-of-technology": {
+      "title": "Amirkabir University of Technology",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Amirkabir University of Technology, established in 1958, is one of Iran's leading technical and engineering universities. Located in Tehran, it is known for its focus on innovation, applied research, and collaboration with industries. Amirkabir consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the country's scientific and industrial development.",
+        "desc2": "Founded with the goal of training skilled and creative professionals in technical and engineering fields, Amirkabir University has always been recognized as one of the main hubs of technical higher education in Iran. With its distinguished faculty, state-of-the-art laboratories, and strong ties with industry, the university has become one of the leading scientific and research centers in the region."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in energy, nanotechnology, artificial intelligence, and biomedical engineering.",
+        "li4": "Collaborating with major domestic and international industries to address technological and industrial challenges."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top universities in the world, Amirkabir University of Technology strives to contribute to the country's scientific and technological advancement by providing high-quality education, conducting applied research, and strengthening ties with industry. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Electrical Engineering",
+        "li2": "Faculty of Computer Engineering",
+        "li3": "Faculty of Mechanical Engineering",
+        "li4": "Faculty of Chemical Engineering",
+        "li5": "Faculty of Civil Engineering",
+        "li6": "Faculty of Industrial Engineering",
+        "li7": "Faculty of Biomedical Engineering",
+        "li8": "Faculty of Energy Engineering",
+        "li9": "Faculty of Materials Science and Metallurgical Engineering",
+        "li10": "Faculty of Nuclear Engineering",
+        "li11": "Faculty of Aerospace Engineering",
+        "li12": "Faculty of Mathematical Sciences",
+        "li13": "Faculty of Physics",
+        "li14": "Faculty of Management, Science, and Technology"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Mohammad Taghi Bargh-Ara",
+        "desc1": "Engineer and senior technology executive.",
+        "name2": "Seyed Ahmad Motamedi",
+        "desc2": "Engineer and politician, former president of Amirkabir University of Technology.",
+        "name3": "Mohammad Hossein Saei",
+        "desc3": "Engineer and successful entrepreneur.",
+        "name4": "Morteza Mehrabadi",
+        "desc4": "Engineer and prominent researcher in the field of energy."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories:",
+        "li-desc1": "Amirkabir University offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students":{
+        "title":"Useful Information for International Students",
+        "li-title1":"Student Exchange Programs",
+        "li-desc1": "Amirkabir University collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2":"Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3":"Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4":"Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking":{
+        "title":"Ranking of Amirkabir University",
+        "desc":"According to the latest ranking announced for Asian universities by the times higher education database, Amirkabir University is ranked second in Iran and ranked 68th in Asia."
+      }
+  },
+  "shahid-beheshti-university": {
+      "title": "Shahid Beheshti University",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Shahid Beheshti University (SBU), established in 1959, is one of the most comprehensive and prestigious universities in Iran. Located in Tehran, it is renowned for its high-quality education, advanced research, and globally successful alumni. SBU consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the country's scientific, cultural, and social development.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in various scientific fields, SBU is now one of the largest and most comprehensive universities in Iran. With numerous faculties and research centers, it is a leader in humanities, engineering, basic sciences, arts, and management."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in energy, environmental sciences, artificial intelligence, and social sciences.",
+        "li4": "Collaborating with prestigious global universities and research institutions."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top universities in the world, Shahid Beheshti University strives to contribute to the country's scientific and cultural advancement by providing high-quality education, conducting applied research, and strengthening ties with industry and society. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Electrical and Computer Engineering",
+        "li2": "Faculty of Mechanical and Energy Engineering",
+        "li3": "Faculty of Civil, Water, and Environmental Engineering",
+        "li4": "Faculty of Materials Science and Metallurgical Engineering",
+        "li5": "Faculty of Mathematical Sciences",
+        "li6": "Faculty of Physics",
+        "li7": "Faculty of Chemistry",
+        "li8": "Faculty of Earth Sciences",
+        "li9": "Faculty of Biological Sciences",
+        "li10": "Faculty of Humanities",
+        "li11": "Faculty of Law",
+        "li12": "Faculty of Management and Accounting",
+        "li13": "Faculty of Economics and Political Sciences",
+        "li14": "Faculty of Arts and Architecture",
+        "li15": "Faculty of Education and Psychology"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Ali Akbar Velayati",
+        "desc1": "Politician and former Minister of Foreign Affairs of Iran.",
+        "name2": "Shahriar Shafiei",
+        "desc2": "Famous Iranian poet and writer.",
+        "name3": "Fereidoun Azizi",
+        "desc3": "Physician and prominent researcher in endocrinology and metabolism.",
+        "name4": "Reza Davari Ardakani",
+        "desc4": "Philosopher and distinguished university professor.",
+        "name5": "Mohammad Ali Moḥaddeth",
+        "desc5": "Jurist and prominent researcher in international law."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "SBU offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "SBU collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of Shahid Beheshti University",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, SBU is ranked 8th in Iran and ranked 131th in Asia."
+      }
+  },
+  "university-of-tabriz": {
+    "title": "University of Tabriz",
+    "button": "Read More",
+    "university-introduction": {
+      "title": "University Introduction",
+      "desc1": "The University of Tabriz, one of the oldest and most prestigious universities in Iran, was established in 1946. It is recognized as one of the main hubs for education and research in northwestern Iran and is renowned for its programs in basic sciences, engineering, humanities, and arts. With its advanced educational and research facilities, the university provides an ideal environment for students interested in academic and research pursuits.",
+      "desc2": "The university is consistently ranked as one of the top universities in Iran in national and international rankings and offers over 50 advanced laboratories, numerous research centers, and strong industry connections, providing students with unparalleled opportunities to participate in innovative and practical projects.",
+      "desc3": "Tabriz, the city where the university is located, is known as one of Iran's cultural and historical hubs, with attractions such as the historic Tabriz Bazaar, the Blue Mosque, and the Azerbaijan Museum nearby. This makes student life in Tabriz a unique experience."
+    },
+    "list-of-faculties": {
+      "title": "List of Faculties",
+      "li1": "Faculty of Basic Sciences",
+      "li2": "Faculty of Engineering",
+      "li3": "Faculty of Agriculture",
+      "li4": "Faculty of Veterinary Medicine",
+      "li5": "Faculty of Literature and Humanities",
+      "li6": "Faculty of Law and Political Science",
+      "li7": "Faculty of Economics, Management, and Social Sciences",
+      "li8": "Faculty of Art and Architecture",
+      "li9": "Faculty of Educational Sciences and Psychology",
+      "li10": "Faculty of Natural Resources and Environment",
+      "li11": "Faculty of New Technologies",
+      "li12": "Faculty of Biological Sciences and Technologies"
+    },
+    "welfare-facilities": {
+      "title": "Welfare Facilities",
+      "li-title1": "Student Dormitories",
+      "li-desc1": "The University of Tabriz offers well-equipped and comfortable dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+      "li-title2": "Dining Halls",
+      "li-desc2": "Several dining halls with diverse and healthy menus are available on campus.",
+      "li-title3": "Central Library",
+      "li-desc3": "The university library, with over 600,000 books and digital resources, is one of the largest academic libraries in Iran.",
+      "li-title4": "Sports Facilities",
+      "li-desc4": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are provided for students.",
+      "li-title5": "Health Center",
+      "li-desc5": "A well-equipped health center is available on campus to provide medical services to students."
+    },
+    "useful-info-for-students": {
+      "title": "Useful Information for International Students",
+      "li-title1": "Persian Language Courses",
+      "li-desc1": "The University of Tabriz offers Persian language courses for international students to familiarize them with Iranian culture and language.",
+      "li-title2": "Student Exchange Programs",
+      "li-desc2": "The university collaborates with prestigious global institutions to provide student exchange opportunities.",
+      "li-title3": "Life in Tabriz",
+      "li-desc3": "Tabriz, the city where the university is located, combines history, culture, and natural beauty. The city is home to historical attractions such as the Tabriz Bazaar and the Blue Mosque, offering a vibrant student life.",
+      "li-title4": "Affordable Costs",
+      "li-desc4": "The cost of studying and living in Tabriz is more affordable compared to many major cities in Iran and other countries."
+    },
+    "ranking": {
+      "title": "Ranking of Tabriz University",
+      "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tabriz University is ranked 6th in Iran and ranked 121th in Asia."
+    }
+  },
+  "kn-toosi-university-of-technology": {
+      "title": "K. N. Toosi University of Technology",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "K. N. Toosi University of Technology, established in 1980, is one of Iran's most prestigious technical and engineering universities. Named after the renowned Iranian scholar, Khajeh Nasir al-Din al-Tusi, the university is a symbol of scientific and technological advancement in Iran. With its state-of-the-art educational and research facilities, K. N. Toosi provides an ideal environment for students passionate about innovation and research.",
+        "desc2": "The university is globally recognized for its programs in electrical engineering, mechanical engineering, civil engineering, computer engineering, aerospace engineering, and mathematical sciences. It consistently ranks as one of the top technical universities in Iran in national and international rankings. With over 40 advanced laboratories, numerous research centers, and strong industry connections, K. N. Toosi offers students unparalleled opportunities to engage in innovative and practical projects.",
+        "desc3": "Located in Tehran, the university provides easy access to the scientific, cultural, and industrial hubs of the capital, making student life at K. N. Toosi a dynamic and engaging experience."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Electrical Engineering",
+        "li2": "Faculty of Mechanical Engineering",
+        "li3": "Faculty of Civil Engineering",
+        "li4": "Faculty of Computer Engineering",
+        "li5": "Faculty of Mathematical Sciences",
+        "li6": "Faculty of Aerospace Engineering",
+        "li7": "Faculty of Industrial Engineering",
+        "li8": "Faculty of Geodesy and Geomatics Engineering",
+        "li9": "Faculty of Materials and Metallurgical Engineering",
+        "li10": "Faculty of Chemical Engineering"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Dr. Seyed Hassan Hosseini",
+        "desc1": "Distinguished professor of electrical engineering and a pioneer in the development of telecommunications systems in Iran.",
+        "name2": "Dr. Alireza Afzali",
+        "desc2": "Leading scientist in the field of electrical and computer engineering and professor at Sharif University of Technology.",
+        "name3": "Dr. Morteza Mehrabadi",
+        "desc3": "Renowned expert in mechanical engineering and a senior faculty member at K. N. Toosi University.",
+        "name4": "Dr. Mahmoud Fotouhi",
+        "desc4": "Prominent professor of civil engineering and a recognized figure in the field of smart structures.",
+        "name5": "Dr. Hamidreza Naderi",
+        "desc5": "Distinguished scholar in computer engineering and a graduate of K. N. Toosi University."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "K. N. Toosi University offers well-equipped and comfortable dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Dining Halls",
+        "li-desc2": "Several dining halls with diverse and healthy menus are available on campus.",
+        "li-title3": "Central Library",
+        "li-desc3": "The university library, with over 400,000 books and digital resources, is one of the largest technical and engineering libraries in Iran.",
+        "li-title4": "Sports Facilities",
+        "li-desc4": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are provided for students.",
+        "li-title5": "Health Center",
+        "li-desc5": "A well-equipped health center is available on campus to provide medical services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Technical-Focused Persian Language Courses",
+        "li-desc1": "K. N. Toosi University offers specialized Persian language courses for international students, focusing on technical and engineering terminology. These courses help students communicate effectively in academic and industrial settings in Iran.",
+        "li-title2": "International Workshops and Hackathons",
+        "li-desc2": "The university regularly hosts international workshops and hackathons, providing an excellent opportunity for international students to collaborate with global experts and participate in innovative projects.",
+        "li-title3": "Industrial and Research Networks",
+        "li-desc3": "As a student at K. N. Toosi, you gain access to a vast network of technology companies and research centers, opening doors to valuable career and research opportunities.",
+        "li-title4": "Dynamic Student Life in Tehran",
+        "li-desc4": "Tehran, the city where the university is located, combines history, culture, and modernity. The city offers diverse amenities for student life, including museums, parks, shopping centers, and international restaurants.",
+        "li-title5": "Affordable Costs",
+        "li-desc5": "The cost of studying and living in Tehran is more affordable compared to many major cities in Iran and other countries. K. N. Toosi University also offers scholarships and financial aid for international students."
+      },
+      "ranking": {
+        "title": "Ranking of K. N. Toosi University of Technology",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, K. N. Toosi University of Technology is ranked 17th in Iran and ranked 121th in Asia"
+      }
+  },
+  "shiraz-university": {
+      "title": "Shiraz University",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Shiraz University, one of the oldest and most prestigious universities in Iran, was established in 1946 under the name 'Pahlavi University' and was renamed 'Shiraz University' after the Islamic Revolution. Located in the beautiful and historic city of Shiraz, the university boasts vast green spaces and stunning architecture, making it one of the most picturesque academic environments in Iran.",
+        "desc2": "Shiraz University is renowned for its programs in basic sciences, engineering, humanities, and arts, and is consistently ranked as one of the top universities in Iran in national and international rankings. With advanced educational and research facilities, the university provides an ideal environment for students interested in academic and research pursuits.",
+        "desc3": "Shiraz, the city where the university is located, is known as one of Iran's cultural and historical hubs, with attractions such as Persepolis, Hafez's Tomb, and Saadi's Tomb nearby. This makes student life in Shiraz a unique experience."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Science",
+        "li2": "Faculty of Engineering",
+        "li3": "Faculty of Agriculture",
+        "li4": "Faculty of Veterinary Medicine",
+        "li5": "Faculty of Literature and Humanities",
+        "li6": "Faculty of Law and Political Science",
+        "li7": "Faculty of Economics, Management, and Social Sciences",
+        "li8": "Faculty of Art and Architecture",
+        "li9": "Faculty of Educational Sciences and Psychology",
+        "li10": "Faculty of Natural Resources and Environment",
+        "li11": "Faculty of New Technologies",
+        "li12": "Faculty of Biological Sciences and Technologies"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Dr. Mahmoud Hessaby",
+        "desc1": "Prominent physicist and founder of modern physics in Iran.",
+        "name2": "Dr. Abdolhossein Zarrinkoob",
+        "desc2": "Renowned Iranian writer and historian.",
+        "name3": "Dr. Mohammad Jafar Yahaghi",
+        "desc3": "Distinguished professor of Persian language and literature.",
+        "name4": "Dr. Alireza Afzali",
+        "desc4": "Leading scientist in the field of electrical and computer engineering.",
+        "name5": "Dr. Mohammad Bagher Ghalibaf",
+        "desc5": "Politician and former mayor of Tehran."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "Shiraz University offers well-equipped and comfortable dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Dining Halls",
+        "li-desc2": "Several dining halls with diverse and healthy menus are available on campus.",
+        "li-title3": "Central Library",
+        "li-desc3": "The university library, with over 600,000 books and digital resources, is one of the largest academic libraries in Iran.",
+        "li-title4": "Sports Facilities",
+        "li-desc4": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are provided for students.",
+        "li-title5": "Health Center",
+        "li-desc5": "A well-equipped health center is available on campus to provide medical services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Persian Language Courses",
+        "li-desc1": "Shiraz University offers Persian language courses for international students to familiarize them with Iranian culture and language.",
+        "li-title2": "Student Exchange Programs",
+        "li-desc2": "The university collaborates with prestigious global institutions to provide student exchange opportunities.",
+        "li-title3": "Life in Shiraz",
+        "li-desc3": "Shiraz, the city where the university is located, combines history, culture, and natural beauty. The city is home to historical attractions such as Persepolis and Hafez's Tomb, offering a vibrant student life.",
+        "li-title4": "Affordable Costs",
+        "li-desc4": "The cost of studying and living in Shiraz is more affordable compared to many major cities in Iran and other countries."
+      },
+      "ranking": {
+        "title": "Ranking of Shiraz University",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Shiraz University is ranked fifth in Iran and ranked 118th in Asia."
+      }
+  },
+  "isfahan-university-of-technology": {
+      "title": "Isfahan University of Technology",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Isfahan University of Technology (IUT), established in 1977, is one of the leading technical and engineering universities in Iran. Located in Isfahan, one of Iran's historical and cultural cities, it is renowned for its high-quality education, advanced research, and globally successful alumni. IUT consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the country's scientific and industrial development.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in technical and engineering fields, IUT is now one of the largest and most comprehensive technical universities in Iran. With numerous faculties and research centers, it is a leader in engineering, basic sciences, and emerging technologies."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in energy, nanotechnology, artificial intelligence, and biomedical engineering.",
+        "li4": "Collaborating with major domestic and international industries to address technological and industrial challenges."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top universities in the world, Isfahan University of Technology strives to contribute to the country's scientific and technological advancement by providing high-quality education, conducting applied research, and strengthening ties with industry. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Electrical and Computer Engineering",
+        "li2": "Faculty of Mechanical Engineering",
+        "li3": "Faculty of Chemical Engineering",
+        "li4": "Faculty of Civil Engineering",
+        "li5": "Faculty of Materials Science and Metallurgical Engineering",
+        "li6": "Faculty of Industrial Engineering",
+        "li7": "Faculty of Energy Engineering",
+        "li8": "Faculty of Nuclear Engineering",
+        "li9": "Faculty of Biomedical Engineering",
+        "li10": "Faculty of Mathematical Sciences",
+        "li11": "Faculty of Physics",
+        "li12": "Faculty of Chemistry"
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "IUT offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "IUT collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of Isfahan University of Technology",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database Isfahan University of Technology is ranked 9th in Iran and ranked 133th in Asia."
+      }
+  },
+  "tabriz-university-of-medical-sciences": {
+      "title": "Tabriz University of Medical Sciences",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Tabriz University of Medical Sciences, one of the oldest and most prestigious medical universities in Iran, was established in 1947. It is recognized as one of the main hubs for education, research, and healthcare services in northwestern Iran. With its well-equipped teaching hospitals and advanced research centers, the university plays a significant role in training skilled professionals in the field of health.",
+        "desc2": "The university is renowned for its programs in medicine, dentistry, pharmacy, nursing, and other medical sciences, and is consistently ranked as one of the top medical universities in Iran in national and international rankings. Through its teaching hospitals, Tabriz University of Medical Sciences provides high-quality medical services to the people of the region.",
+        "desc3": "Tabriz, the city where the university is located, is known as one of Iran's cultural and historical hubs, with attractions such as the historic Tabriz Bazaar, the Blue Mosque, and the Azerbaijan Museum nearby. This makes student life in Tabriz a unique experience."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Medicine",
+        "li2": "Faculty of Dentistry",
+        "li3": "Faculty of Pharmacy",
+        "li4": "Faculty of Nursing and Midwifery",
+        "li5": "Faculty of Health",
+        "li6": "Faculty of Paramedical Sciences",
+        "li7": "Faculty of Nutrition and Food Sciences",
+        "li8": "Faculty of Rehabilitation Sciences",
+        "li9": "Faculty of Management and Medical Informatics",
+        "li10": "Faculty of Traditional Medicine"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Dr. Alireza Zali",
+        "desc1": "Prominent surgeon and former president of the Iranian Medical Council.",
+        "name2": "Dr. Mohammad Reza Mohammadi",
+        "desc2": "Distinguished cardiologist and professor.",
+        "name3": "Dr. Fereidoun Azizi",
+        "desc3": "Renowned endocrinologist and metabolism specialist.",
+        "name4": "Dr. Abbasali Karimi",
+        "desc4": "Pediatric specialist and distinguished professor.",
+        "name5": "Dr. Seyed Alireza Marandi",
+        "desc5": "Former Minister of Health and Medical Education and a prominent professor of medicine."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "Tabriz University of Medical Sciences offers well-equipped and comfortable dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Dining Halls",
+        "li-desc2": "Several dining halls with diverse and healthy menus are available on campus.",
+        "li-title3": "Central Library",
+        "li-desc3": "The university library, with over 500,000 books and digital resources, is one of the largest medical libraries in Iran.",
+        "li-title4": "Sports Facilities",
+        "li-desc4": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are provided for students.",
+        "li-title5": "Health Center",
+        "li-desc5": "A well-equipped health center is available on campus to provide medical services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Persian Language Courses",
+        "li-desc1": "Tabriz University of Medical Sciences offers Persian language courses for international students to familiarize them with Iranian culture and language.",
+        "li-title2": "Student Exchange Programs",
+        "li-desc2": "The university collaborates with prestigious global institutions to provide student exchange opportunities.",
+        "li-title3": "Life in Tabriz",
+        "li-desc3": "Tabriz, the city where the university is located, combines history, culture, and natural beauty. The city is home to historical attractions such as the Tabriz Bazaar and the Blue Mosque, offering a vibrant student life.",
+        "li-title4": "Affordable Costs",
+        "li-desc4": "The cost of studying and living in Tabriz is more affordable compared to many major cities in Iran and other countries."
+      },
+      "ranking": {
+        "title": "Ranking of Tabriz University of Medical Sciences",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tabriz University of Medical Sciences is ranked 11 in Iran and ranked 143th in Asia."
+      }
+  },
+  "sharif-university-of-technology": {
+      "title": "Sharif University of Technology",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Sharif University of Technology, established in 1965, is one of the most prestigious and leading technical and engineering universities in Iran and the Middle East. Located in the Tarasht district of Tehran, it is renowned for its high-quality education, advanced research, and globally successful alumni. Sharif consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the scientific, industrial, and technological development of the country.",
+        "desc2": "Founded with the goal of training skilled and innovative professionals in technical and engineering fields, Sharif University has always been recognized as a symbol of technical higher education in Iran. With its distinguished faculty, state-of-the-art laboratories, and strong ties with industry, the university has become one of the leading scientific and research hubs in the region.",
+        "desc3": "Sharif University of Technology is active in various fields, including engineering, basic sciences, management, and emerging technologies, and houses numerous faculties and research centers. The university also has extensive collaborations with prestigious global universities and research institutions, actively pursuing student and researcher exchange programs."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized globally.",
+        "li3": "Conducting advanced research projects in energy, nanotechnology, artificial intelligence, and biomedical engineering.",
+        "li4": "Collaborating with major domestic and international industries to address technological and industrial challenges."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top 100 universities in the world, Sharif University of Technology strives to contribute to the country's scientific and technological advancement by providing high-quality education, conducting applied research, and strengthening ties with industry. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Electrical Engineering",
+        "li2": "Faculty of Computer Engineering",
+        "li3": "Faculty of Mechanical Engineering",
+        "li4": "Faculty of Chemical and Petroleum Engineering",
+        "li5": "Faculty of Civil Engineering",
+        "li6": "Faculty of Industrial Engineering",
+        "li7": "Faculty of Mathematical Sciences",
+        "li8": "Faculty of Physics",
+        "li9": "Faculty of Management and Economics",
+        "li10": "Faculty of Aerospace Engineering",
+        "li11": "Faculty of Materials Science and Metallurgical Engineering",
+        "li12": "Faculty of Energy Engineering",
+        "li13": "Faculty of Biomedical Engineering",
+        "li14": "Faculty of Philosophy of Science",
+        "li15": "Faculty of Nuclear Engineering"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Maryam Mirzakhani",
+        "desc1": "Renowned mathematician and the only woman to win the Fields Medal (the most prestigious award in mathematics).",
+        "name2": "Ali Akbar Salehi",
+        "desc2": "Physicist and politician, former head of the Atomic Energy Organization of Iran.",
+        "name3": "Pirouz Tavana",
+        "desc3": "Engineer and senior technology executive, a pioneer in Iran's IT industry.",
+        "name4": "Fereydoon Abbasi Davani",
+        "desc4": "Physicist and politician, former head of the Atomic Energy Organization of Iran.",
+        "name5": "Saeed Sohrabpour",
+        "desc5": "Engineer and successful entrepreneur, founder of several technology companies."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "Sharif University offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "Sharif University collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of Sharif University",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Sharif University is ranked first in Iran and ranked 56th in Asia."
+      }
+  },
+  "iran-university-of-science-and-technology": {
+      "title": "Iran University of Science and Technology",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Iran University of Science and Technology (IUST), established in 1929, is one of the oldest and most prestigious technical and engineering universities in Iran. Located in Tehran, it is known for its focus on applied education, advanced research, and collaboration with industries. IUST consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the country's scientific and industrial development.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in technical and engineering fields, IUST is now one of the largest and most comprehensive technical universities in Iran. With numerous faculties and research centers, it is a leader in engineering, basic sciences, and emerging technologies."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in energy, nanotechnology, artificial intelligence, and biomedical engineering.",
+        "li4": "Collaborating with major domestic and international industries to address technological and industrial challenges."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top universities in the world, Iran University of Science and Technology strives to contribute to the country's scientific and technological advancement by providing high-quality education, conducting applied research, and strengthening ties with industry. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Electrical Engineering",
+        "li2": "Faculty of Computer Engineering",
+        "li3": "Faculty of Mechanical Engineering",
+        "li4": "Faculty of Chemical Engineering",
+        "li5": "Faculty of Civil Engineering",
+        "li6": "Faculty of Industrial Engineering",
+        "li7": "Faculty of Materials Science and Metallurgical Engineering",
+        "li8": "Faculty of Energy Engineering",
+        "li9": "Faculty of Nuclear Engineering",
+        "li10": "Faculty of Aerospace Engineering",
+        "li11": "Faculty of Mathematical Sciences",
+        "li12": "Faculty of Physics",
+        "li13": "Faculty of Management and Economics"
+      },
+      "notable-alumni": {
+        "name1": "Mohammad Salimi",
+        "desc1": "Engineer and Chief Technology Officer.",
+        "name2": "Mehrdad Raji Kermani",
+        "desc2": "First graduate in Electrical Engineering and Full Professor at Western University, London, Canada.",
+        "name3": "Mohammad Baqer Niyoo",
+        "desc3": "First engineering graduate in Iran, founder of the modern tile and textile industry, minting industry, porcelain manufacturing, and tea cultivation industry in Iran.",
+        "name4": "Ali Niyoo",
+        "desc4": "Founder of the sugar industry."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "IUST offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "IUST collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of IUST University",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, IUST is ranked third in Iran and ranked 79th in Asia."
+      }
+  },
+  "isfahan-university-of-medical-sciences": {
+      "title": "Isfahan University of Medical Sciences",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Isfahan University of Medical Sciences (IUMS), established in 1946, is one of the leading medical universities in Iran. Located in Isfahan, one of Iran's historical and cultural cities, it is renowned for its high-quality education, advanced research, and globally successful alumni. IUMS consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the development of medical sciences and healthcare in the country.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in medical, dental, pharmaceutical, and paramedical fields, IUMS is now one of the largest and most comprehensive medical universities in Iran. With numerous teaching hospitals and research centers, it is a leader in various fields of medical sciences."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in medicine, pharmacy, and public health.",
+        "li4": "Collaborating with prestigious global universities and research institutions."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top medical universities in the world, Isfahan University of Medical Sciences strives to contribute to the advancement of medical sciences and healthcare by providing high-quality education, conducting applied research, and strengthening ties with industry and society. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Medicine",
+        "li2": "Faculty of Dentistry",
+        "li3": "Faculty of Pharmacy",
+        "li4": "Faculty of Paramedical Sciences",
+        "li5": "Faculty of Public Health",
+        "li6": "Faculty of Nursing and Midwifery",
+        "li7": "Faculty of Rehabilitation",
+        "li8": "Faculty of Nutrition Sciences and Dietetics",
+        "li9": "Faculty of Medical Management and Information",
+        "li10": "Faculty of Traditional Medicine"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Seyed Hassan Ghazizadeh Hashemi",
+        "desc1": "Physician and politician, former Minister of Health and Medical Education of Iran.",
+        "name2": "Fereidoun Azizi",
+        "desc2": "Physician and prominent researcher in endocrinology and metabolism.",
+        "name3": "Mohammad Ali Mohagheghi",
+        "desc3": "Physician and distinguished university professor.",
+        "name4": "Reza Malekzadeh",
+        "desc4": "Physician and prominent researcher in gastroenterology and hepatology.",
+        "name5": "Shahindokht Molaverdi",
+        "desc5": "Physician and politician, former Vice President for Women and Family Affairs."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "IUMS offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "IUMS collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of Isfahan University of Medical Sciences",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, IUMS is ranked 22th in Iran and ranked 251th in Asia."
+      }
+  },
+  "shahid-beheshti-university-of-medical-sciences": {
+      "title": "Shahid Beheshti University of Medical Sciences",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Shahid Beheshti University of Medical Sciences (SBUMS), established in 1966, is one of the leading medical universities in Iran. Located in Tehran, it is renowned for its high-quality education, advanced research, and globally successful alumni. SBUMS consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the development of medical sciences and healthcare in the country.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in medical, dental, pharmaceutical, and paramedical fields, SBUMS is now one of the largest and most comprehensive medical universities in Iran. With numerous teaching hospitals and research centers, it is a leader in various fields of medical sciences."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in medicine, pharmacy, and public health.",
+        "li4": "Collaborating with prestigious global universities and research institutions."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top medical universities in the world, Shahid Beheshti University of Medical Sciences strives to contribute to the advancement of medical sciences and healthcare by providing high-quality education, conducting applied research, and strengthening ties with industry and society. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Medicine",
+        "li2": "Faculty of Dentistry",
+        "li3": "Faculty of Pharmacy",
+        "li4": "Faculty of Paramedical Sciences",
+        "li5": "Faculty of Public Health",
+        "li6": "Faculty of Nursing and Midwifery",
+        "li7": "Faculty of Rehabilitation",
+        "li8": "Faculty of Nutrition Sciences and Dietetics",
+        "li9": "Faculty of Medical Management and Information",
+        "li10": "Faculty of Traditional Medicine"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Seyed Hassan Ghazizadeh Hashemi",
+        "desc1": "Physician and politician, former Minister of Health and Medical Education of Iran.",
+        "name2": "Fereidoun Azizi",
+        "desc2": "Physician and prominent researcher in endocrinology and metabolism.",
+        "name3": "Mohammad Ali Mohagheghi",
+        "desc3": "Physician and distinguished university professor.",
+        "name4": "Reza Malekzadeh",
+        "desc4": "Physician and prominent researcher in gastroenterology and hepatology.",
+        "name5": "Shahindokht Molaverdi",
+        "desc5": "Physician and politician, former Vice President for Women and Family Affairs."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "SBUMS offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "SBUMS collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of Shahid Beheshti University of Medical Sciences",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, SBUMS is ranked 8th in Iran and ranked 131th in Asia."
+      }
+  },
+  "tehran-university-of-medical-sciences": {
+      "title": "Tehran University of Medical Sciences",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Tehran University of Medical Sciences (TUMS), established in 1934, is one of the oldest and most prestigious medical universities in Iran. Located in Tehran, it is renowned for its high-quality education, advanced research, and globally successful alumni. TUMS consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the development of medical sciences and healthcare in the country.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in medical, dental, pharmaceutical, and paramedical fields, TUMS is now one of the largest and most comprehensive medical universities in Iran. With numerous teaching hospitals and research centers, it is a leader in various fields of medical sciences."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in medicine, pharmacy, and public health.",
+        "li4": "Collaborating with prestigious global universities and research institutions."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top medical universities in the world, Tehran University of Medical Sciences strives to contribute to the advancement of medical sciences and healthcare by providing high-quality education, conducting applied research, and strengthening ties with industry and society. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Medicine",
+        "li2": "Faculty of Dentistry",
+        "li3": "Faculty of Pharmacy",
+        "li4": "Faculty of Paramedical Sciences",
+        "li5": "Faculty of Public Health",
+        "li6": "Faculty of Nursing and Midwifery",
+        "li7": "Faculty of Rehabilitation",
+        "li8": "Faculty of Nutrition Sciences and Dietetics",
+        "li9": "Faculty of Medical Management and Information",
+        "li10": "Faculty of Traditional Medicine"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Seyed Hassan Ghazizadeh Hashemi",
+        "desc1": "Physician and politician, former Minister of Health and Medical Education of Iran.",
+        "name2": "Fereidoun Azizi",
+        "desc2": "Physician and prominent researcher in endocrinology and metabolism.",
+        "name3": "Mohammad Ali Mohagheghi",
+        "desc3": "Physician and distinguished university professor.",
+        "name4": "Reza Malekzadeh",
+        "desc4": "Physician and prominent researcher in gastroenterology and hepatology.",
+        "name5": "Shahindokht Molaverdi",
+        "desc5": "Physician and politician, former Vice President for Women and Family Affairs."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "TUMS offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "TUMS collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of TUMS",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, TUMS is ranked seventh in Iran and ranked 129th in Asia."
+      }
+  },
+  "shiraz-university-of-medical-sciences": {
+      "title": "Shiraz University of Medical Sciences",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Shiraz University of Medical Sciences, one of the most prestigious and largest medical universities in Iran, was established in 1946. It is recognized as one of the main hubs for education, research, and healthcare services in southern Iran. With its well-equipped teaching hospitals and advanced research centers, the university plays a significant role in training skilled professionals in the field of health.",
+        "desc2": "The university is renowned for its programs in medicine, dentistry, pharmacy, nursing, and other medical sciences, and is consistently ranked as one of the top medical universities in Iran in national and international rankings. Through its teaching hospitals, Shiraz University of Medical Sciences provides high-quality medical services to the people of the region.",
+        "desc3": "Shiraz, the city where the university is located, is known as one of Iran's cultural and historical hubs, with attractions such as Persepolis, Hafez's Tomb, and Saadi's Tomb nearby. This makes student life in Shiraz a unique experience."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Medicine",
+        "li2": "Faculty of Dentistry",
+        "li3": "Faculty of Pharmacy",
+        "li4": "Faculty of Nursing and Midwifery",
+        "li5": "Faculty of Health",
+        "li6": "Faculty of Paramedical Sciences",
+        "li7": "Faculty of Nutrition and Food Sciences",
+        "li8": "Faculty of Rehabilitation Sciences",
+        "li9": "Faculty of Management and Medical Informatics",
+        "li10": "Faculty of Traditional Medicine"
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "Dr. Seyed Alireza Marandi",
+        "desc1": "Former Minister of Health and Medical Education and a prominent professor of medicine.",
+        "name2": "Dr. Mohammad Hossein Imani Khoshkhoo",
+        "desc2": "Renowned scientist in the field of pharmacy and faculty member.",
+        "name3": "Dr. Fereidoun Azizi",
+        "desc3": "Distinguished endocrinologist and metabolism specialist.",
+        "name4": "Dr. Mohammad Reza Zali",
+        "desc4": "Prominent surgeon and former president of the Iranian Medical Council.",
+        "name5": "Dr. Abbasali Karimi",
+        "desc5": "Pediatric specialist and distinguished professor."
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "Shiraz University of Medical Sciences offers well-equipped and comfortable dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Dining Halls",
+        "li-desc2": "Several dining halls with diverse and healthy menus are available on campus.",
+        "li-title3": "Central Library",
+        "li-desc3": "The university library, with over 500,000 books and digital resources, is one of the largest medical libraries in Iran.",
+        "li-title4": "Sports Facilities",
+        "li-desc4": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are provided for students.",
+        "li-title5": "Health Center",
+        "li-desc5": "A well-equipped health center is available on campus to provide medical services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Persian Language Courses",
+        "li-desc1": "Shiraz University of Medical Sciences offers Persian language courses for international students to familiarize them with Iranian culture and language.",
+        "li-title2": "Student Exchange Programs",
+        "li-desc2": "The university collaborates with prestigious global institutions to provide student exchange opportunities.",
+        "li-title3": "Life in Shiraz",
+        "li-desc3": "Shiraz, the city where the university is located, combines history, culture, and natural beauty. The city is home to historical attractions such as Persepolis and Hafez's Tomb, offering a vibrant student life.",
+        "li-title4": "Affordable Costs",
+        "li-desc4": "The cost of studying and living in Shiraz is more affordable compared to many major cities in Iran and other countries."
+      },
+      "ranking": {
+        "title": "Ranking of Shiraz University of Medical Sciences",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Shiraz University of Medical Sciences is 26th first in Iran and ranked 251th in Asia."
+      }
+  },
+  "mashhad-university-of-medical-sciences": {
+      "title": "Mashhad University of Medical Sciences",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "Mashhad University of Medical Sciences (MUMS), established in 1949, is one of the leading medical universities in Iran. Located in Mashhad, the capital of Razavi Khorasan Province, it is renowned for its high-quality education, advanced research, and globally successful alumni. MUMS consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the development of medical sciences and healthcare in the country.",
+        "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in medical, dental, pharmaceutical, and paramedical fields, MUMS is now one of the largest and most comprehensive medical universities in Iran. With numerous teaching hospitals and research centers, it is a leader in various fields of medical sciences."
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+        "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+        "li3": "Conducting advanced research projects in medicine, pharmacy, and public health.",
+        "li4": "Collaborating with prestigious global universities and research institutions."
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": "With the vision of becoming one of the top medical universities in the world, Mashhad University of Medical Sciences strives to contribute to the advancement of medical sciences and healthcare by providing high-quality education, conducting applied research, and strengthening ties with industry and society. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "Faculty of Medicine",
+        "li2": "Faculty of Dentistry",
+        "li3": "Faculty of Pharmacy",
+        "li4": "Faculty of Paramedical Sciences",
+        "li5": "Faculty of Public Health",
+        "li6": "Faculty of Nursing and Midwifery",
+        "li7": "Faculty of Rehabilitation",
+        "li8": "Faculty of Nutrition Sciences and Dietetics",
+        "li9": "Faculty of Medical Management and Information",
+        "li10": "Faculty of Traditional Medicine"
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "Student Dormitories",
+        "li-desc1": "MUMS offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+        "li-title2": "Central Library",
+        "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+        "li-title3": "Sports Facilities",
+        "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+        "li-title4": "Restaurants and Cafes",
+        "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+        "li-title5": "Health Center",
+        "li-desc5": "The university health center offers medical and psychological services to students."
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "Student Exchange Programs",
+        "li-desc1": "MUMS collaborates with prestigious global universities and offers exchange programs for international students.",
+        "li-title2": "Persian Language Courses",
+        "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+        "li-title3": "Academic and Career Counseling",
+        "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+        "li-title4": "Cultural and Social Activities",
+        "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+      },
+      "ranking": {
+        "title": "Ranking of Mashhad University of Medical Sciences",
+        "desc": "According to the latest ranking announced for Asian universities by the times higher education database, MUMS is ranked 18th in Iran and ranked 201th in Asia."
+      }
+  },
+  "ferdowsi-university-of-mashhad": {
+    "title": "Ferdowsi University of Mashhad",
+    "button": "Read More",
+    "university-introduction": {
+      "title": "University Introduction",
+      "desc1": "Ferdowsi University of Mashhad (FUM), established in 1949, is one of the oldest and most prestigious universities in Iran. Located in Mashhad, the capital of Razavi Khorasan Province, it is renowned for its high-quality education, advanced research, and globally successful alumni. FUM consistently ranks among the top universities in Iran and the region in international rankings and has played a significant role in the country's scientific, cultural, and social development.",
+      "desc2": "Founded with the goal of training skilled professionals and outstanding researchers in various scientific fields, FUM is now one of the largest and most comprehensive universities in Iran. With numerous faculties and research centers, it is a leader in humanities, engineering, basic sciences, arts, and management."
+    },
+    "key-achievements": {
+      "title": "Key Achievements",
+      "li1": "Consistent presence in international rankings such as QS and Times Higher Education.",
+      "li2": "Graduating a large number of successful alumni recognized nationally and internationally.",
+      "li3": "Conducting advanced research projects in energy, environmental sciences, artificial intelligence, and social sciences.",
+      "li4": "Collaborating with prestigious global universities and research institutions."
+    },
+    "vision-and-mission": {
+      "title": "Vision and Mission",
+      "desc": "With the vision of becoming one of the top universities in the world, Ferdowsi University of Mashhad strives to contribute to the country's scientific and cultural advancement by providing high-quality education, conducting applied research, and strengthening ties with industry and society. The university's primary mission is to train skilled, creative, and responsible professionals who can make an impact both nationally and internationally."
+    },
+    "list-of-faculties": {
+      "title": "List of Faculties",
+      "li1": "Faculty of Engineering",
+      "li2": "Faculty of Basic Sciences",
+      "li3": "Faculty of Literature and Humanities",
+      "li4": "Faculty of Education and Psychology",
+      "li5": "Faculty of Mathematical Sciences",
+      "li6": "Faculty of Administrative and Economic Sciences",
+      "li7": "Faculty of Agriculture",
+      "li8": "Faculty of Veterinary Medicine",
+      "li9": "Faculty of Fine Arts",
+      "li10": "Faculty of Theology and Islamic Studies",
+      "li11": "Faculty of Sports Sciences",
+      "li12": "Faculty of Natural Resources and Environment"
+    },
+    "notable-alumni": {
+      "title": "Notable Alumni",
+      "name1": "Mohammad Reza Shafiei Kadkani",
+      "desc1": "Renowned poet, writer, and literary researcher.",
+      "name2": "Ali Shariati",
+      "desc2": "Sociologist, writer, and cultural activist.",
+      "name3": "Gholamhossein Ebrahimi Dinani",
+      "desc3": "Philosopher and distinguished university professor.",
+      "name4": "Mohammad Ali Eslami Nodoushan",
+      "desc4": "Writer, poet, and literary researcher.",
+      "name5": "Mohammad Jafar Yahaghi",
+      "desc5": "Prominent researcher in Persian literature."
+    },
+    "welfare-facilities": {
+      "title": "Welfare Facilities",
+      "li-title1": "Student Dormitories",
+      "li-desc1": "FUM offers modern and well-equipped dormitories with amenities such as high-speed internet, study halls, and recreational spaces.",
+      "li-title2": "Central Library",
+      "li-desc2": "The university library, with its rich resources and access to international databases, is one of the best academic libraries in Iran.",
+      "li-title3": "Sports Facilities",
+      "li-desc3": "Sports halls, swimming pools, football fields, volleyball, and basketball courts are available for students.",
+      "li-title4": "Restaurants and Cafes",
+      "li-desc4": "Several restaurants and cafes on campus provide high-quality and diverse food options.",
+      "li-title5": "Health Center",
+      "li-desc5": "The university health center offers medical and psychological services to students."
+    },
+    "useful-info-for-students": {
+      "title": "Useful Information for International Students",
+      "li-title1": "Student Exchange Programs",
+      "li-desc1": "FUM collaborates with prestigious global universities and offers exchange programs for international students.",
+      "li-title2": "Persian Language Courses",
+      "li-desc2": "Special courses are available for international students who wish to learn Persian.",
+      "li-title3": "Academic and Career Counseling",
+      "li-desc3": "The university provides counseling services to assist international students with academic and career matters.",
+      "li-title4": "Cultural and Social Activities",
+      "li-desc4": "Student associations and various cultural events are organized to help international students familiarize themselves with Iranian culture."
+    },
+    "ranking": {
+    "title": "Ranking of Ferdowsi University of Mashhad",
+    "desc": "According to the latest ranking announced for Asian universities by the times higher education database, FUM is ranked 14th in Iran and ranked 180th in Asia."
+    }
+  },
+  "university": {
+      "title": "",
+      "button": "Read More",
+      "university-introduction": {
+        "title": "University Introduction",
+        "desc1": "",
+        "desc2": ""
+      },
+      "key-achievements": {
+        "title": "Key Achievements",
+        "li1": "",
+        "li2": "",
+        "li3": "",
+        "li4": ""
+      },
+      "vision-and-mission": {
+        "title": "Vision and Mission",
+        "desc": ""
+      },
+      "list-of-faculties": {
+        "title": "List of Faculties",
+        "li1": "",
+        "li2": "",
+        "li3": "",
+        "li4": "",
+        "li5": "",
+        "li6": "",
+        "li7": "",
+        "li8": "",
+        "li9": "",
+        "li10": "",
+        "li11": "",
+        "li12": "",
+        "li13": "",
+        "li14": ""
+      },
+      "notable-alumni": {
+        "title": "Notable Alumni",
+        "name1": "",
+        "desc1": "",
+        "name2": "",
+        "desc2": "",
+        "name3": "",
+        "desc3": "",
+        "name4": "",
+        "desc4": ""
+      },
+      "welfare-facilities": {
+        "title": "Welfare Facilities",
+        "li-title1": "",
+        "li-desc1": "",
+        "li-title2": "",
+        "li-desc2": "",
+        "li-title3": "",
+        "li-desc3": "",
+        "li-title4": "",
+        "li-desc4": "",
+        "li-title5": "",
+        "li-desc5": ""
+      },
+      "useful-info-for-students": {
+        "title": "Useful Information for International Students",
+        "li-title1": "",
+        "li-desc1": "",
+        "li-title2": "",
+        "li-desc2": "",
+        "li-title3": "",
+        "li-desc3": "",
+        "li-title4": "",
+        "li-desc4": ""
+      },
+      "ranking": {
+        "title": "",
+        "desc": ""
+      }
+  }
+}

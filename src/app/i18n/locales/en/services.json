@@ -1,0 +1,53 @@
+{
+  "title": "Services",
+  "title1": "Service Number One",
+  "desc1": "Corporate restructuring refers to the process of reorganizing a man company's womas out",
+  "university-registeration": {
+    "title": "Univerity Registeration"
+  },
+    "visa": {
+      "title": "Visa"
+    },
+    "persian-language-training": {
+      "title": "Persian Language Training"
+    },
+    "accommodation": {
+      "title": "accommodation"
+    },
+    "civic-education": {
+      "title": "Civic Education"
+    },
+    "cultural-orientation-programs": {
+      "title": "Cultural Orientation Programs"
+    },
+    "part-time-job-opportunities": {
+      "title": "Part-time Job Opportunities"
+    },
+    "social-networking-events": {
+      "title": "Social Networking Events"
+    },
+    "health-insurance-guidance": {
+      "title": "Health Insurance Guidance"
+    },
+    "academic-support-services": {
+      "title": "Academic Support Services"
+    },
+    "legal-assistance": {
+      "title": "Legal Assistance"
+    },
+    "transportation-assistance": {
+      "title": "Transportation Assistance"
+    },
+    "financial-advice": {
+      "title": "Financial Advice"
+    },
+    "emergency-support-services": {
+      "title": "Emergency Support Services"
+    },
+    "extracurricular-activities": {
+      "title": "Extracurricular Activities"
+    },
+    "feedback-and-improvement-mechanisms": {
+      "title": "Feedback and Improvement Mechanisms"
+    }
+}

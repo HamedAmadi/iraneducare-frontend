@@ -1,0 +1,75 @@
+{
+    "title": "Studying in Iran",
+    "sub-title": "A Complete Guide for International Students",
+    "enrollment": {
+      "title": "How to Enroll in an Iranian University",
+      "desc": "We make the enrollment process for international students in Iran simple and stress-free. Here’s a step-by-step guide:",
+      "step1": {
+        "title": "Choose Your University and Program",
+        "point1": [
+          "Explore a ",
+          { "link": "list of accredited universities in Iran" },
+          "."
+        ],
+        "point1-link": "List of Universities",
+        "point2": "Select the academic program that suits your goals.",
+        "point3": "Review the admission requirements for your chosen university."
+      },
+      "step2": {
+        "title": "Prepare and Submit Your Documents",
+        "point1": "A valid passport",
+        "point2": "Academic certificates",
+        "point3": "Official transcripts",
+        "point4": "A medical health certificate",
+        "point5": "Passport-sized photos",
+        "translationHelp": "Need help with document translation?",
+        "translationService": "We also provide professional translation services for your academic records."
+      },
+      "step3": {
+        "title": "Receive Your Admission Letter",
+        "description": "Once we review your application and verify your documents, we’ll submit your request to the university. If accepted, you will receive an official admission letter."
+      },
+      "step4": {
+        "title": "Apply for a Student Visa",
+        "point1": "After securing admission, the next step is to apply for an Iranian student visa.",
+        "point2": "We handle the entire visa process, including application, interview guidance, and final approval.",
+        "description": [
+      "For details on obtaining a student visa, visit ",
+      { "link": "the Student Visa issuance page" },
+      "."
+    ]
+      },
+      "step5": {
+        "title": "Complete Registration and Start Your Studies",
+        "description": "When you arrive in Iran, our team will assist you with finalizing your university registration. We also provide support with accommodation, student insurance, and any other services you may need."
+      }
+    },
+    "whyUs": {
+      "title": "Why Choose Us?",
+      "point1-title": "Free Consultation:",
+      "point1-desc": "Personalized guidance on university and program selection.",
+      "point2-title": "Comprehensive Support:",
+      "point2-desc": "We assist you from document submission to visa processing and settling in Iran.",
+      "point3-title": "Multilingual Services:",
+      "point3-desc": "Our team communicates in Persian, English, and Arabic.",
+      "point4-title": "Direct University Access:",
+      "point4-desc": "Stay updated with accurate and official information from top Iranian universities."
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "q1": "When is the application deadline?",
+      "a1-title": "Deadlines vary by university, but generally:",
+      "a1-item1": "Spring (May) for Fall semester (starting in September).",
+      "a1-item2": "Summer (July) for Winter semester (starting in February).",
+      "q2": "Do I need to provide a language proficiency certificate?",
+      "a2": "Some universities require a language test, but many programs accept students without it.",
+      "q3": "How much does it cost to study in Iran?",
+      "a3": "Tuition fees vary based on the university and program, but studying in Iran is generally more affordable compared to many other countries."
+    },
+    "contact": {
+      "title": "Contact Us & Get Started!",
+      "description": "Ready to begin your academic journey in Iran? Fill out our consultation form, and our experts will guide you through every step of the process.",
+      "button": "Free Consultation"
+    }
+  }
+  

@@ -1,0 +1,73 @@
+{
+    "title": "Financial Consultation for International Students in Iran",
+    "sub-title": "Manage Your Finances Smartly for a Stress-Free Student Life",
+    "introduction": "Studying abroad comes with financial challenges, from managing tuition fees to covering daily expenses. Many international students need guidance on budgeting, banking, and financial planning to make the most of their resources. Our financial consultation services help students organize their finances efficiently, understand banking procedures, and explore available financial opportunities in Iran.",
+
+    "whyFinancialConsultation": {
+        "title": "Why Financial Consultation is Important?",
+        "point1-title": "Smart Budgeting",
+        "point1-desc": "Learn how to manage tuition fees, rent, and living costs.",
+        "point2-title": "Understanding the Banking System",
+        "point2-desc": "Get help opening bank accounts, using cards, and making payments.",
+        "point3-title": "Explore Financial Support & Scholarships",
+        "point3-desc": "Find opportunities to reduce study costs.",
+        "point4-title": "Avoid Financial Difficulties",
+        "point4-desc": "Prevent unnecessary expenses and manage financial risks."
+    },
+
+    "services": {
+        "title": "Our Financial Consultation Services Include:",
+        "service1-title": "Guidance on Tuition & Living Costs",
+        "service1-desc": "Breakdown of expected expenses for international students.",
+        "service2-title": "Assistance with Bank Account Setup & Transactions",
+        "service2-desc": "Support in choosing the right bank and using financial services.",
+        "service3-title": "Advice on International Money Transfers",
+        "service3-desc": "Best ways to receive and send money from abroad.",
+        "service4-title": "Scholarship & Financial Aid Guidance",
+        "service4-desc": "Information on university scholarships and external funding options.",
+        "service5-title": "Training on Smart Spending & Budgeting",
+        "service5-desc": "Strategies to save money and avoid financial stress."
+    },
+
+    "howToApply": {
+        "title": "Steps to Receive Financial Consultation",
+        "step1-title": "Assessment of Your Financial Needs",
+        "step1-desc": "We review your financial situation and provide personalized advice.",
+        "step2-title": "Choosing the Right Financial Solutions",
+        "step2-desc": "We help you find banking services, scholarship options, and financial planning strategies.",
+        "step3-title": "Implementing a Personalized Budget Plan",
+        "step3-desc": "Receive a tailored financial plan to effectively manage your expenses.",
+        "step4-title": "Ongoing Financial Support",
+        "step4-desc": "We provide continuous assistance for any financial concerns during your studies."
+    },
+
+    "whyUs": {
+        "title": "Why Choose Our Financial Consultation Services?",
+        "point1-title": "Expert financial advisors specializing in student finances",
+        "point1-desc": "Receive professional guidance tailored to student financial needs.",
+        "point2-title": "Guidance on bank accounts and financial transactions in Iran",
+        "point2-desc": "Learn how to manage your banking efficiently.",
+        "point3-title": "Strategies to save money and manage expenses wisely",
+        "point3-desc": "Smart financial planning for a stress-free student life.",
+        "point4-title": "Continuous support to help students avoid financial difficulties",
+        "point4-desc": "Ongoing consultation throughout your studies."
+    },
+
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Can international students open a bank account in Iran?",
+        "a1": "Yes, international students can open a bank account in certain banks, and we guide them through the process.",
+        "q2": "How can I reduce my study costs?",
+        "a2": "By applying for scholarships, finding part-time work, and managing expenses wisely.",
+        "q3": "What is the best way to transfer money from my home country to Iran?",
+        "a3": "There are multiple options, and we provide guidance on the safest and most cost-effective methods.",
+        "q4": "Can I receive financial consultation after arriving in Iran?",
+        "a4": "Yes, our services are available to students at any stage of their studies."
+    },
+
+    "contact": {
+        "title": "Get Financial Consultation Today!",
+        "description": "If you need help managing your finances, setting up a bank account, or finding financial aid, contact us now!",
+        "button": "Request Financial Consultation"
+    }
+}

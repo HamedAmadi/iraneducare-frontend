@@ -1,0 +1,73 @@
+{
+    "title": "Academic Support Services for International Students in Iran",
+    "sub-title": "Helping You Succeed in Your Studies with Personalized Academic Assistance",
+    "introduction": "Adapting to a new academic system can be challenging for international students. From understanding university regulations to excelling in coursework, students often need academic support to maximize their success. We provide comprehensive academic assistance to help students navigate their studies with confidence and achieve their educational goals.",
+
+    "whySupport": {
+        "title": "Why Academic Support is Important?",
+        "point1-title": "Improve Academic Performance",
+        "point1-desc": "Learn study techniques and time management skills.",
+        "point2-title": "Guidance on University Courses",
+        "point2-desc": "Understand credit systems, grading policies, and course requirements.",
+        "point3-title": "Assistance with Course Selection & Scheduling",
+        "point3-desc": "Avoid common mistakes in choosing subjects.",
+        "point4-title": "Help with Research & Academic Writing",
+        "point4-desc": "Learn how to conduct research and write academic papers."
+    },
+
+    "services": {
+        "title": "Our Academic Support Services Include:",
+        "service1-title": "Academic Advising & Study Planning",
+        "service1-desc": "Get expert guidance on course selection and academic strategy.",
+        "service2-title": "Tutoring & Study Sessions",
+        "service2-desc": "Receive extra support for challenging subjects.",
+        "service3-title": "Guidance on University Policies & Regulations",
+        "service3-desc": "Understand academic rules, plagiarism policies, and grade appeals.",
+        "service4-title": "Assistance with Research Projects & Thesis Writing",
+        "service4-desc": "Learn how to write professional reports and research papers.",
+        "service5-title": "Workshops on Study Skills & Time Management",
+        "service5-desc": "Enhance learning efficiency with expert tips."
+    },
+
+    "howToApply": {
+        "title": "Steps to Receive Academic Support",
+        "step1-title": "Submit a Request & Identify Your Needs",
+        "step1-desc": "Students can contact our academic advisors to discuss their challenges.",
+        "step2-title": "Receive a Personalized Academic Plan",
+        "step2-desc": "We develop a customized study strategy based on your goals.",
+        "step3-title": "Attend Study Sessions & Academic Consultations",
+        "step3-desc": "Participate in one-on-one tutoring, workshops, and research guidance sessions.",
+        "step4-title": "Track Progress & Improve Continuously",
+        "step4-desc": "We monitor your academic progress and adjust the support plan as needed."
+    },
+
+    "whyUs": {
+        "title": "Why Choose Our Academic Support Services?",
+        "point1-title": "Expert guidance from academic professionals",
+        "point1-desc": "Get valuable insights and strategies for academic success.",
+        "point2-title": "Personalized study plans based on individual needs",
+        "point2-desc": "We tailor our support to your academic challenges.",
+        "point3-title": "Tutoring and workshops for challenging subjects",
+        "point3-desc": "Extra assistance for subjects you find difficult.",
+        "point4-title": "Assistance in research and academic writing",
+        "point4-desc": "Learn how to conduct and present academic research effectively."
+    },
+
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "Are these services available for all international students?",
+        "a1": "Yes, our academic support services are open to all international students studying in Iran.",
+        "q2": "Can I request tutoring for a specific subject?",
+        "a2": "Yes, we provide tutoring sessions for subjects that students find difficult.",
+        "q3": "How do I register for academic support?",
+        "a3": "Students can contact us and schedule a consultation to discuss their needs.",
+        "q4": "Are both online and in-person sessions available?",
+        "a4": "Yes, depending on availability, students can choose between online or in-person academic support."
+    },
+
+    "contact": {
+        "title": "Get Academic Support Today!",
+        "description": "If you need help with your studies, research, or university regulations, our experts are here to assist you. Contact us now to schedule a consultation!",
+        "button": "Request Academic Assistance"
+    }
+}

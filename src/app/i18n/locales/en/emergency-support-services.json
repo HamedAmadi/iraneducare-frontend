@@ -1,0 +1,75 @@
+{
+    "title": "Emergency Support Services for International Students in Iran",
+    "sub-title": "24/7 Assistance to Ensure Your Safety & Well-being",
+    "introduction": "Living in a new country comes with unexpected challenges, and international students may face medical, legal, or safety emergencies at any time. Having a trusted emergency support system can provide peace of mind and help students handle critical situations efficiently. We offer 24/7 emergency support services to assist international students in navigating any urgent issues they encounter.",
+
+    "whyEmergencySupport": {
+        "title": "Why Emergency Support is Essential?",
+        "point1-title": "Immediate Access to Help",
+        "point1-desc": "Quick response in urgent situations.",
+        "point2-title": "Medical Emergency Guidance",
+        "point2-desc": "Assistance in finding hospitals and getting medical attention.",
+        "point3-title": "Legal & Residency Support",
+        "point3-desc": "Help with visa issues, legal concerns, or administrative problems.",
+        "point4-title": "Lost Documents & Personal Belongings Assistance",
+        "point4-desc": "Guidance on reporting and recovering lost items.",
+        "point5-title": "Safety & Security Advice",
+        "point5-desc": "Support in case of theft, accidents, or security concerns."
+    },
+
+    "services": {
+        "title": "Our Emergency Support Services Include:",
+        "service1-title": "Medical Emergency Assistance",
+        "service1-desc": "Help with hospital visits, emergency contacts, and health-related issues.",
+        "service2-title": "Legal & Residency Assistance",
+        "service2-desc": "Support in handling visa or residency permit problems.",
+        "service3-title": "Help with Lost Passports & Documents",
+        "service3-desc": "Guidance on obtaining replacement documents.",
+        "service4-title": "Assistance in Accidents or Security Issues",
+        "service4-desc": "Steps to take in case of theft, road accidents, or emergencies.",
+        "service5-title": "24/7 Support & Direct Assistance",
+        "service5-desc": "A dedicated helpline for urgent cases."
+    },
+
+    "howToApply": {
+        "title": "Steps to Access Emergency Support",
+        "step1-title": "Contact Our Emergency Hotline",
+        "step1-desc": "In case of an emergency, students can call our dedicated helpline for immediate assistance.",
+        "step2-title": "Describe Your Situation & Get Immediate Guidance",
+        "step2-desc": "Our team will assess the issue and provide the best course of action.",
+        "step3-title": "Receive Assistance from Authorities or Support Services",
+        "step3-desc": "If necessary, we coordinate with hospitals, police, or universities to resolve the issue.",
+        "step4-title": "Follow-Up & Continued Support",
+        "step4-desc": "We stay in touch to ensure the situation is fully resolved and provide additional support if needed."
+    },
+
+    "whyUs": {
+        "title": "Why Choose Our Emergency Support Services?",
+        "point1-title": "24/7 availability for any emergency situation",
+        "point1-desc": "Immediate help at any time, day or night.",
+        "point2-title": "Assistance with all types of emergencies – medical, legal, and personal",
+        "point2-desc": "Comprehensive support for different emergency cases.",
+        "point3-title": "Direct coordination with authorities to resolve issues quickly",
+        "point3-desc": "We work with hospitals, police, and universities to assist students.",
+        "point4-title": "Reliable and professional support system for international students",
+        "point4-desc": "A trusted emergency service tailored for international students."
+    },
+
+    "faq": {
+        "title": "Frequently Asked Questions",
+        "q1": "What should I do if I have a medical emergency?",
+        "a1": "Call our emergency hotline, and we will assist you in finding the nearest hospital or doctor.",
+        "q2": "What happens if I lose my passport or visa documents?",
+        "a2": "We guide you on the necessary legal steps to report and replace lost documents.",
+        "q3": "Can I receive legal support if I have issues with my visa?",
+        "a3": "Yes, we provide assistance with visa renewals, legal procedures, and university-related concerns.",
+        "q4": "How can I contact the emergency support team?",
+        "a4": "We provide a dedicated phone number and email for students to reach us at any time."
+    },
+
+    "contact": {
+        "title": "Save Our Emergency Support Number Today!",
+        "description": "Be prepared for any unexpected situation. Contact us now to get emergency support when you need it most!",
+        "button": "Get Emergency Assistance"
+    }
+}

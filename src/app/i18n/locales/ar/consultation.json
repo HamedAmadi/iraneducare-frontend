@@ -1,0 +1,20 @@
+{
+    "title": "استشارة مجانية",
+    "form-desc": "لتلقي الاستشارة، قم بتسجيل بياناتك حتى نتمكن من الاتصال بك في أقرب وقت ممكن",
+    "second-desc": "يمكنك أيضًا طرح أسئلتك من خلال قنوات الاتصال الخاصة بنا",
+    "email": "بريد إلكتروني",
+    "whatsapp": "واتساب",
+    "telegram": "تلجرام",
+    "fullName-ph": "أدخل اسمك الكامل",
+    "email-ph": "أدخل بريدك الإلكتروني",
+    "mobileNumber-ph": "رقم هاتفك المحمول (يبدأ بـ 00)",
+    "description-ph": "صف حالتك واطرح أسئلتك",
+    "fullName-required-message": "أدخل اسمك الكامل",
+    "email-required-message": "أدخل بريدك الإلكتروني",
+    "email-pattern-message": "تنسيق البريد الإلكتروني غير صحيح",
+    "mobileNumber-pattern-message": "تنسيق رقم الجوال غير صحيح",
+    "description-required-message": "الرجاء ملء هذه الخانة",
+    "button-text": "يُقدِّم",
+    "success-message": "تم ارسال طلبك بنجاح",
+    "error-message": "لقد حدث خطأ على الخادم! حاول مرة اخرى"
+  }
