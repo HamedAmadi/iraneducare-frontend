@@ -37,6 +37,7 @@ const Services = ({ params: { lng } }: { params: { lng: string; } }) => {
     setOpenIndex(prevIndex => (prevIndex === index ? null : index));
   };
 
+
   return (
     <>
       <div className='relative w-full'>
