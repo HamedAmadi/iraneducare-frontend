@@ -38,7 +38,7 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
                 </div>
                 <p className='text-xl'>{t('home-banner.text')}</p>
                 <div className="relative mt-12">
-                  <Link href={`/${lng}/free-consultation`} className="relative px-[30px] py-[20px] lg:text-lg rounded-full bg-first text-white hover:text-text hover:bg-second">
+                  <Link href={`/${lng}/free-consultation`} className="relative px-[30px] py-[20px] lg:text-lg rounded-full bg-first text-white hover:bg-second">
                     {t('free-consultation')}
                   </Link>
                 </div>
