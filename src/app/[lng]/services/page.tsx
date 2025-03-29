@@ -33,11 +33,6 @@ const Services = ({ params: { lng } }: { params: { lng: string; } }) => {
     { title: (t('feedback-and-improvement-mechanisms.title')), path: `/${lng}/services/feedback-and-improvement-mechanisms`, icon: <MessageCircle className='w-16 h-16 mx-auto text-blue-500 ' /> },
   ];
 
-  const toggleAccordion = (index: number) => {
-    setOpenIndex(prevIndex => (prevIndex === index ? null : index));
-  };
-
-
   return (
     <>
       <div className='relative w-full'>
