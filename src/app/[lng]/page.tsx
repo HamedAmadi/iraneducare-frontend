@@ -15,13 +15,12 @@ import ServiceCard from '@/public-components/main/ServiceCard/ServiceCard'
 import UniversityCard from '@/public-components/main/UniversityCard/UniversityCard'
 import HomeBlogs from '@/components/HomeBlogs/HomeBlogs'
 import Link from 'next/link'
-import { BadgeCheck, BriefcaseBusiness, Car, GraduationCap, HomeIcon, HousePlus, Scale } from 'lucide-react'
+import { BadgeCheck, BriefcaseBusiness, Car, GraduationCap, HousePlus, Scale } from 'lucide-react'
 
 const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
 
   if (languages.indexOf(lng) < 0) lng = fallbackLng
   const { t } = await useTranslation(lng, 'home')
-
 
   return (
     <>
