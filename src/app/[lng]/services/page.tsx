@@ -4,7 +4,7 @@ import { useTranslation } from '@/app/i18n/client';
 import { fallbackLng, languages } from "@/app/i18n/settings";
 import { useState } from 'react';
 import { motion } from 'framer-motion';
-import { ChevronDown, GraduationCap, HousePlus, BadgeCheck, BriefcaseBusiness, Car, Scale, Languages, Activity, AlarmCheck, BookOpen, ClipboardCheck, Globe, HeartPulse, MessageCircle, Users, Wallet } from 'lucide-react';
+import { GraduationCap, HousePlus, BadgeCheck, BriefcaseBusiness, Car, Scale, Languages, Activity, AlarmCheck, BookOpen, ClipboardCheck, Globe, HeartPulse, MessageCircle, Users, Wallet } from 'lucide-react';
 import ServiceCard from '@/public-components/main/ServiceCard/ServiceCard';
 
 
