@@ -24,11 +24,6 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
 
 
   // edited
-  // edited
-  // edited
-  // edited
-  // edited
-  // edited
 
   return (
     <>
