@@ -70,7 +70,7 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
             </div>
           </div>
           <div className="">
-            <h2 className={'font-bold font-BYekan text-first mb-6 text-xl'}>{t('home-about-us.short-title')}</h2>
+            <h2 className={'font-bold font-BYekan text-sky-600 mb-6 text-xl'}>{t('home-about-us.short-title')}</h2>
             <p className='text-xl mb-5 text-text'>{t('home-about-us.desc1')}</p>
             <p className='text-xl mb-5 text-text'>{t('home-about-us.desc2')}</p>
             <p className='text-xl text-text'>{t('home-about-us.desc3')}</p>
