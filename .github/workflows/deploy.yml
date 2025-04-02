@@ -38,3 +38,27 @@ jobs:
             echo "FTP_PASSWORD=${{ secrets.FTP_PASSWORD }}" >> $GITHUB_ENV
             echo "DEPLOY_PATH=/home/proserfo/dev.iraneducare.ir" >> $GITHUB_ENV
           fi
+
+      - name: 📤 Upload files via FTP
+        uses: SamKirkland/FTP-Deploy-Action@v4
+        with:
+          server: ${{ env.FTP_HOST }}
+          username: ${{ env.FTP_USERNAME }}
+          password: ${{ env.FTP_PASSWORD }}
+          local-dir: "build/"
+          server-dir: "${{ env.DEPLOY_PATH }}/"
+          exclude: |
+            **/.git*
+            **/.git*/**
+            **/node_modules/**
+
+      - name: 🎬 Install dependencies & restart app
+        uses: appleboy/ssh-action@master
+        with:
+          host: ${{ env.FTP_HOST }}
+          username: ${{ env.FTP_USERNAME }}
+          password: ${{ env.FTP_PASSWORD }}
+          script: |
+            cd ${{ env.DEPLOY_PATH }}
+            npm install --production
+            pm2 restart frontend || echo "No PM2 process found"
