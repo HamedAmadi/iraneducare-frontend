@@ -1,0 +1,40 @@
+name: 🚀 Deploy Frontend
+
+on:
+  push:
+    branches:
+      - main
+      - dev
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📂 Checkout repository
+        uses: actions/checkout@v3
+
+      - name: 📦 Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: 📜 Install dependencies
+        run: npm install
+
+      - name: 🔨 Build project
+        run: npm run build
+
+      - name: 🌍 Set FTP credentials based on branch
+        run: |
+          if [ "${{ github.ref }}" == "refs/heads/main" ]; then
+            echo "FTP_HOST=${{ secrets.FTP_HOST }}" >> $GITHUB_ENV
+            echo "FTP_USERNAME=${{ secrets.FTP_USERNAME_MAIN }}" >> $GITHUB_ENV
+            echo "FTP_PASSWORD=${{ secrets.FTP_PASSWORD }}" >> $GITHUB_ENV
+            echo "DEPLOY_PATH=/home/proserfo/iraneducare.ir" >> $GITHUB_ENV
+          else
+            echo "FTP_HOST=${{ secrets.FTP_HOST }}" >> $GITHUB_ENV
+            echo "FTP_USERNAME=${{ secrets.FTP_USERNAME_DEV }}" >> $GITHUB_ENV
+            echo "FTP_PASSWORD=${{ secrets.FTP_PASSWORD }}" >> $GITHUB_ENV
+            echo "DEPLOY_PATH=/home/proserfo/dev.iraneducare.ir" >> $GITHUB_ENV
+          fi
