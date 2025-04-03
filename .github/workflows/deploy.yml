@@ -42,5 +42,18 @@ jobs:
             **/.git*/**
             **/node_modules/**
 
-      - name: Trigger Cron Job on cPanel
-        run: curl -X GET "https://iraneducare.ir/deploy/webhook.php?key=${{ env.FTP_PASSWORD }}"
+      - name: Run Deployment Commands via SSH
+        uses: appleboy/ssh-action@v0.1.6
+        with:
+          host: proserfor.ir
+          username: proserfo
+          password: ${{ secrets.CPANEL_DEPOLOY_KEY }}
+          script: |
+            cd /home/proserfo/iraneducare.ir
+            export PATH=/home/proserfo/.nvm/versions/node/v18.17.1/bin:$PATH
+            export NODE_PATH=/home/proserfo/.nvm/versions/node/v18.17.1/lib/node_modules
+            /home/proserfo/.nvm/versions/node/v18.17.1/bin/npm install
+            /home/proserfo/.nvm/versions/node/v18.17.1/bin/npm run build
+            nohup /home/proserfo/.nvm/versions/node/v18.17.1/bin/node .next/standalone/server.js > /dev/null 2>&1 &
+
+          
