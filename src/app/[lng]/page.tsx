@@ -23,6 +23,7 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
   const { t } = await useTranslation(lng, 'home')
 
   // edited2
+  // edited2
 
   return (
     <>
