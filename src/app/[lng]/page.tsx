@@ -22,6 +22,9 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
   if (languages.indexOf(lng) < 0) lng = fallbackLng
   const { t } = await useTranslation(lng, 'home')
 
+
+
+
   return (
     <>
       <div className='relative'>
