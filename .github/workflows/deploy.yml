@@ -42,9 +42,5 @@ jobs:
             **/.git*/**
             **/node_modules/**
 
-            
-      - name: Ensure all files are uploaded
-        run: sleep 30  # یک تأخیر 30 ثانیه‌ای برای اطمینان از تکمیل انتقال
-
       - name: Trigger Cron Job on cPanel
         run: curl -X GET "https://iraneducare.ir/deploy/webhook.php?key=${{ env.FTP_PASSWORD }}"
