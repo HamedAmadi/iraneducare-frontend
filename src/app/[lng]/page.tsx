@@ -68,7 +68,7 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
             </div>
           </div>
           <div className="">
-            <h2 className={'font-bold font-BYekan text-sky-600 mb-6 text-xl'}>{t('home-about-us.short-title')}</h2>
+            <h2 className={'font-bold font-BYekan text-sky-500 mb-6 text-xl'}>{t('home-about-us.short-title')}</h2>
             <p className='text-xl mb-5 text-text'>{t('home-about-us.desc1')}</p>
             <p className='text-xl mb-5 text-text'>{t('home-about-us.desc2')}</p>
             <p className='text-xl text-text'>{t('home-about-us.desc3')}</p>
@@ -76,7 +76,7 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
         </div>
       </section>
       <section className="xs:container px-4 pt-16 pb-24">
-        <h2 className={'font-bold font-BYekan text-center text-first mb-4 ' + (lng === 'en' ? 'text-base' : 'text-xl')}>{t('home-service.short-title')}</h2>
+        <h2 className={'font-bold font-BYekan text-center text-sky-500 mb-4 ' + (lng === 'en' ? 'text-base' : 'text-xl')}>{t('home-service.short-title')}</h2>
         <h1 className='text-3xl md:text-4xl mb-14 leading-normal text-center'>{t('home-service.long-title')}</h1>
         <div className="grid lg:grid-cols-3 md:grid-cols-2 grid-cols-1 gap-7">
           <ServiceCard icon={<GraduationCap className='w-16 h-16 mx-auto text-blue-500 ' />} bgColor={'bg-[#FFF3F3]'} hoverColor={'bg-[#FFDADA]'} title={t('home-service.university-registration.title')} path={`/${lng}/services/university-registration`} />
