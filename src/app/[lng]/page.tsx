@@ -24,6 +24,8 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
 
   // edited2
   // edited2
+  // edited2
+  // edited2
 
   return (
     <>
