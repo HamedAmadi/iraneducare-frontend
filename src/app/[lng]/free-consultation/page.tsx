@@ -10,6 +10,7 @@ import toast from 'react-hot-toast';
 import { useTranslation } from '@/app/i18n/client';
 import TelegramIcon from '@/public-components/svg-icons/Telegram/TelegramIcon';
 import WhatsAppIcon from '@/public-components/svg-icons/WhatsApp/WhatsAppIcon';
+import HeroBackground from '@/components/HeroBackground/HeroBackground';
 
 export type ConsultationForm = {
   fullName: string
@@ -44,17 +45,20 @@ const FreeConsultation = ({ params: { lng } }: { params: { lng: string } }) => {
   };
   return (
     <>
-      <div className='relative w-full h-fit -z-10 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.png")]'>
-        <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div>
+      <HeroBackground imageSrc="/images/world-map.webp">
+        {/* <div className='relative w-full h-fit -z-10 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.png")]'> */}
+        {/* <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div> */}
         <div className="container">
-          <h1 className="pt-40 pb-28 text-center text-3xl md:text-5xl font-BYekan">{t('title')}</h1>
+          <h1 className="pt-[clamp(6rem,16vw,10rem)] pb-[clamp(4rem,10vw,7rem)] text-center text-[clamp(1.875rem,4vw,3rem)] text-text font-BYekan">{t('title')}</h1>
+          {/* <h1 className="pt-40 pb-28 text-center text-3xl md:text-5xl font-BYekan">{t('title')}</h1> */}
         </div>
-      </div>
-      <div className="py-20 xs:container px-4">
+        {/* </div> */}
+      </HeroBackground>
+      <div className="py-[clamp(1rem,8vw,6rem)] xs:container px-4">
         <div className="grid grid-cols-12 md:gap-10">
           <div className="col-span-12 lg:col-span-8">
-            <div className="px-4 py-6 md:p-10 rounded-[20px] bg-[#F9F4F1]">
-              <p className='text-xl mb-8'>{t('form-desc')}</p>
+            <div className="px-4 py-6 md:p-10 rounded-[20px] bg-second12">
+              <p className='text-lg md:text-xl mb-8'>{t('form-desc')}</p>
               <form onSubmit={handleSubmit(onSubmit)} noValidate>
                 <Input {...register('fullName',
                   {
@@ -86,7 +90,7 @@ const FreeConsultation = ({ params: { lng } }: { params: { lng: string } }) => {
                   }
                 }
                 )} type={"textarea"} name={"description"} errors={errors} placeholder={t('description-ph')} />
-                <button className='flex justify-center py-2.5 px-10 text-lg text-white bg-first hover:bg-second hover:text-text font-bold rounded-[50px]' disabled={isLoading} type="submit">
+                <button className='flex justify-center py-2.5 px-10 md:text-lg text-third bg-first hover:bg-second rounded-[50px]' disabled={isLoading} type="submit">
                   {isLoading && <ButtonSpinner />}
                   {t('button-text')}
                 </button>
@@ -98,7 +102,7 @@ const FreeConsultation = ({ params: { lng } }: { params: { lng: string } }) => {
             <p className='text-lg text-text mb-6'>{t('second-desc')}</p>
             <ul>
               <li className='flex mb-[30px]'>
-                <div className="bg-[#F9F4F1] rounded-full flex w-[60px] h-[60px]">
+                <div className="bg-second10 rounded-full flex w-[60px] h-[60px]">
                   <TelegramIcon className="flex-none m-auto w-7 h-7 fill-first" />
                 </div>
                 <div className="flex flex-col ms-4 justify-between">
@@ -107,7 +111,7 @@ const FreeConsultation = ({ params: { lng } }: { params: { lng: string } }) => {
                 </div>
               </li>
               <li className='flex mb-[30px]'>
-                <div className="bg-[#F9F4F1] rounded-full flex w-[60px] h-[60px]">
+                <div className="bg-second10 rounded-full flex w-[60px] h-[60px]">
                   <WhatsAppIcon className="flex-none m-auto align-middle w-7 h-7 fill-first" />
                 </div>
                 <div className="flex flex-col ms-4 justify-between">
@@ -116,7 +120,7 @@ const FreeConsultation = ({ params: { lng } }: { params: { lng: string } }) => {
                 </div>
               </li>
               <li className='flex mb-[30px]'>
-                <div className="bg-[#F9F4F1] rounded-full flex w-[60px] h-[60px]">
+                <div className="bg-second10 rounded-full flex w-[60px] h-[60px]">
                   <EnvelpeIcon className="flex-none m-auto w-7 h-7 fill-first" />
                 </div>
                 <div className="flex flex-col ms-4 justify-between">

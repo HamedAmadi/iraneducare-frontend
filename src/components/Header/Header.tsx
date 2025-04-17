@@ -28,27 +28,27 @@ const Header = ({ lng }: { lng: string; }) => {
               <Logo />
             </div>
             <nav className="hidden md:flex my-auto py-8 lg:text-lg">
-              <div className={"mx-3 xl:mx-6 font-semibold hover:text-first " + (path === `/${lng}` ? "text-first" : "text-[#131A2A] ")}>
+              <div className={"mx-3 xl:mx-6 font-semibold hover:text-second " + (path === `/${lng}` ? "text-second" : "text-first ")}>
                 <Link href={`/${lng}`}>{t('home')}</Link>
               </div>
-              <div className={"mx-3 xl:mx-6 font-semibold hover:text-first " + (path.includes(`/${lng}/universities`) ? "text-first" : "text-[#131A2A] ")}>
+              <div className={"mx-3 xl:mx-6 font-semibold hover:text-second " + (path.includes(`/${lng}/universities`) ? "text-second" : "text-first ")}>
                 <Link href={`/${lng}/universities`}>{t('universities')}</Link>
               </div>
-              <div className={"mx-3 xl:mx-6 font-semibold hover:text-first " + (path.includes(`/${lng}/services`) ? "text-first" : "text-[#131A2A] ")}>
+              <div className={"mx-3 xl:mx-6 font-semibold hover:text-second " + (path.includes(`/${lng}/services`) ? "text-second" : "text-first ")}>
                 <Link href={`/${lng}/services`}>{t('services')}</Link>
               </div>
-              {/* <div className={"mx-3 xl:mx-6 font-semibold hover:text-first " + (path === `/${lng}/blog` ? "text-first" : "text-[#131A2A] ")}>
+              {/* <div className={"mx-3 xl:mx-6 font-semibold hover:text-second " + (path === `/${lng}/blog` ? "text-second" : "text-first ")}>
                 <Link href={`/${lng}/blogs`}>{t('blog')}</Link>
               </div> */}
-              <div className={"mx-3 xl:mx-6 font-semibold hover:text-first hidden lg:block " + (path === `/${lng}/contact-us` ? "text-first" : "text-[#131A2A] ")}>
+              <div className={"mx-3 xl:mx-6 font-semibold hover:text-second hidden lg:block " + (path === `/${lng}/contact-us` ? "text-second" : "text-first ")}>
                 <Link href={`/${lng}/contact-us`}>{t('contact-us')}</Link>
               </div>
-              <div className={"mx-3 xl:mx-6 font-semibold hover:text-first " + (path === `/${lng}/about-us` ? "text-first" : "text-[#131A2A] ")}>
+              <div className={"mx-3 xl:mx-6 font-semibold hover:text-second " + (path === `/${lng}/about-us` ? "text-second" : "text-first ")}>
                 <Link href={`/${lng}/about-us`}>{t('about-us')}</Link>
               </div>
             </nav>
             <div className="hidden md:block my-auto">
-              <Link href={`/${lng}/free-consultation`} className="py-2 px-3 lg:px-6 lg:py-4 lg:text-lg border-2 border-first rounded-full text-text hover:text-white hover:bg-first">
+              <Link href={`/${lng}/free-consultation`} className="py-2 px-3 lg:px-6 lg:py-4 lg:text-lg border-2 border-first rounded-full text-text hover:text-third hover:bg-first">
                 {t('free-consultation')}
               </Link>
             </div>
@@ -65,14 +65,14 @@ const Header = ({ lng }: { lng: string; }) => {
               }
             </div>
           </div>
-          <div className={"absolute z-[110] w-full start-0 end-0 overflow-hidden shadow-collapseMenu bg-white transition-all ease-in-out duration-300 " + (isShow ? 'block transition-all ease-in-out duration-300' : 'hidden')}>
+          <div className={"absolute z-[110] w-full start-0 end-0 overflow-hidden shadow-collapseMenu bg-third transition-all ease-in-out duration-300 " + (isShow ? 'block transition-all ease-in-out duration-300' : 'hidden')}>
             <ul>
-              <Link href={`/${lng}`}><li className={"py-2.5 px-5 " + (path === `/${lng}` ? 'bg-first text-white' : 'bg-white text-text')}>{t('home')}</li></Link>
-              <Link href={`/${lng}/universities`}><li className={"py-2.5 px-5 " + (path.includes(`/${lng}/universities`) ? 'bg-first text-white' : 'bg-white text-text')}>{t('universities')}</li></Link>
-              <Link href={`/${lng}/services`}><li className={"py-2.5 px-5 " + (path.includes(`/${lng}/services`) ? 'bg-first text-white' : 'bg-white text-text')}>{t('services')}</li></Link>
-              {/* <Link href={`/${lng}/blogs`}><li className={"py-2.5 px-5 " + ((path.includes(`/${lng}/blogs`) || path.includes(`/${lng}/tag-blogs`)) ? 'bg-first text-white' : 'bg-white text-text')}>{t('blog')}</li></Link> */}
-              <Link href={`/${lng}/contact-us`}><li className={"py-2.5 px-5 " + (path === `/${lng}/contact-us` ? 'bg-first text-white' : 'bg-white text-text')}>{t('contact-us')}</li></Link>
-              <Link href={`/${lng}/about-us`}><li className={"py-2.5 px-5 " + (path === `/${lng}/about-us` ? 'bg-first text-white' : 'bg-white text-text')}>{t('about-us')}</li></Link>
+              <Link href={`/${lng}`}><li className={"py-2.5 px-5 " + (path === `/${lng}` ? 'bg-first text-third' : 'bg-third text-text')}>{t('home')}</li></Link>
+              <Link href={`/${lng}/universities`}><li className={"py-2.5 px-5 " + (path.includes(`/${lng}/universities`) ? 'bg-first text-third' : 'bg-third text-text')}>{t('universities')}</li></Link>
+              <Link href={`/${lng}/services`}><li className={"py-2.5 px-5 " + (path.includes(`/${lng}/services`) ? 'bg-first text-third' : 'bg-third text-text')}>{t('services')}</li></Link>
+              {/* <Link href={`/${lng}/blogs`}><li className={"py-2.5 px-5 " + ((path.includes(`/${lng}/blogs`) || path.includes(`/${lng}/tag-blogs`)) ? 'bg-first text-third' : 'bg-third text-text')}>{t('blog')}</li></Link> */}
+              <Link href={`/${lng}/contact-us`}><li className={"py-2.5 px-5 " + (path === `/${lng}/contact-us` ? 'bg-first text-third' : 'bg-third text-text')}>{t('contact-us')}</li></Link>
+              <Link href={`/${lng}/about-us`}><li className={"py-2.5 px-5 " + (path === `/${lng}/about-us` ? 'bg-first text-third' : 'bg-third text-text')}>{t('about-us')}</li></Link>
             </ul>
           </div>
         </div>

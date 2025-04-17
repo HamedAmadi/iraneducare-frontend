@@ -22,7 +22,7 @@ interface Resources {
     "about-us-title": "About Us",
     "free-consultation": "Free Consultation",
     "address": "Lorem Ipsum is simply dummy text of the printing and typesetting industry",
-    "telegram": "telegram",
+    "telegram": "Telegram",
     "whatsapp": "WhatsApp"
   }
   "home": {
@@ -57,28 +57,35 @@ interface Resources {
       "long-title": "Find Out About Our Service"
       "university-registration": {
         "title": "University Registration",
-        "desc": "At IranEduCare, we specialize in assisting international students with the university registration process in Iran. Our experienced team is well-versed in the intricacies of the Iranian educational system, guiding you in selecting the right program and institution that aligns with your academic goals. We manage every step of the registration process, from gathering necessary documents to completing application forms and tracking the status of your application. Our mission is to ensure that you embark on your educational journey with peace of mind, allowing you to focus on your studies and enjoy your experience in Iran. Contact us today to begin this exciting chapter of your life!",
+        "desc": "We make the enrollment process for international students in Iran simple and stress-free. Here’s a step-by-step guide",
+        "button": "Read More"
       },
       "visa": {
         "title": "Visa",
-        "desc": "Navigating the visa application process can be daunting, but at IranEduCare, we provide comprehensive guidance and education for international students seeking study visas. Our knowledgeable team is familiar with the latest visa regulations and requirements, ensuring that you receive expert assistance at every stage of your application. From preparing essential documents to filling out forms and monitoring your application status, we are here to simplify the process for you. Our goal is to make your visa acquisition as seamless as possible, allowing you to pursue your studies in Iran with confidence and ease.",
+        "desc": "To study at Iranian universities, international students must obtain a student visa. This visa grants them legal entry and residency in Iran for academic purposes. The application process involves multiple steps, requiring specific documents and administrative follow-ups.",
+        "button": "Read More"
       },
       "accommodation": {
         "title": "Accommodation",
-        "desc": "At IranEduCare, we specialize in providing rental services for international students seeking a comfortable and secure living environment during their studies in Iran. We understand that finding suitable housing can be a challenge, and we are here to assist you every step of the way in your search for the perfect home. We offer a diverse range of housing options, including private apartments and student accommodations, to meet your varying needs. All our options are strategically located near universities and public transportation, making it easy for you to commute and focus on your studies."
+        "desc": "One of the main concerns for international students after receiving university admission is finding suitable accommodation in Iran. We provide comprehensive rental and housing services to help students secure a safe and comfortable place to stay before they arrive in Iran.",
+        "button": "Read More"
       },
       "part-time-job-opportunities": {
         "title": "Part-time Job Opportunities",
-        "desc": "We understand the importance of financial independence for international students. At IranEduCare, we assist students in finding part-time job opportunities that align with their skills and schedules. Our team collaborates with local businesses and organizations to identify suitable job openings. Furthermore, we conduct workshops on resume writing, interview techniques, and job search strategies to enhance students' employability. Our services not only help students cover their living expenses but also provide them with valuable work experience in the Iranian job market.",
+        "desc": "Many international students seek part-time job opportunities alongside their studies to gain work experience, manage living expenses, and integrate into the Iranian work environment. We provide assistance in finding legal and suitable part-time jobs that match students' skills and availability, ensuring they can balance work and academic commitments effectively.",
+        "button": "Read More"
       },
       "legal-assistance": {
         "title": "Legal Assistance",
-        "desc": "At IranEduCare, we recognize the importance of legal support for international students. Our Legal Assistance services provide expert guidance on residency and work permit issues. Our team of experienced lawyers offers comprehensive advice on local laws and regulations, ensuring that students understand their rights and responsibilities. We are dedicated to protecting students' interests and helping them navigate the legal landscape in Iran, thereby minimizing potential legal challenges.",
+        "desc": "Navigating the legal system in a new country can be challenging, especially for international students unfamiliar with local laws. Our legal assistance services provide expert guidance on residency, work permits, and student rights, ensuring that you fully understand your legal responsibilities and protections while studying in Iran.",
+        "button": "Read More"
       },
       "transportation-assistance": {
         "title": "Transportation Assistance",
-        "desc": "Navigating a new city can be daunting for international students. At IranEduCare, we offer Transportation Assistance to help students move around the city with ease. Our team provides detailed information about public transportation options, including buses and subways, as well as organizing airport transfer services for newly arrived students. We aim to ensure that students have a smooth and comfortable transportation experience, allowing them to focus on their academic and personal goals.",
+        "desc": "Moving around in a new country can be challenging, especially for international students unfamiliar with local transport systems. We provide reliable and affordable transportation services to help students travel smoothly between their university, accommodation, and other destinations in Iran.",
+        "button": "Read More"
       },
+      "button": "Explore Services"
     },
     "home-university": {
       "short-title": "UNIVERSITIES"
@@ -113,6 +120,7 @@ interface Resources {
   },
   "universities": {
     "title": "Universities",
+    "photo-gallery": "Photo Gallery",
     "university-of-tehran": {
       "title": "University of Tehran",
       "button": "Read More",
@@ -190,6 +198,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Tehran University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tehran University is ranked fourth in Iran and ranked 100th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of University of Tehran, Iran"
       }
     },
     "amirkabir-university-of-technology": {
@@ -266,6 +277,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Amirkabir University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Amirkabir University is ranked second in Iran and ranked 68th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Amirkabir University of Technology in Tehran, Iran"
       }
     },
     "shahid-beheshti-university": {
@@ -345,6 +359,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Shahid Beheshti University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, SBU is ranked 8th in Iran and ranked 131th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Shahid Beheshti University in Tehran, Iran"
       }
     },
     "university-of-tabriz": {
@@ -398,6 +415,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Tabriz University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tabriz University is ranked 6th in Iran and ranked 121th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Tabriz University, Iran"
       }
     },
     "kn-toosi-university-of-technology": {
@@ -464,6 +484,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of K. N. Toosi University of Technology",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, K. N. Toosi University of Technology is ranked 17th in Iran and ranked 121th in Asia"
+      },
+      "images-alt": {
+        "Mechanical-faculty": "Faculty of Mechanical Engineering building at K. N. Toosi University of Technology"
       }
     },
     "shiraz-university": {
@@ -530,6 +553,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Shiraz University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Shiraz University is ranked fifth in Iran and ranked 118th in Asia."
+      },
+      "images-alt": {
+        "overview-campus": "Aerial view of Shiraz University campus"
       }
     },
     "isfahan-university-of-technology": {
@@ -593,6 +619,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Isfahan University of Technology",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database Isfahan University of Technology is ranked 9th in Iran and ranked 133th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Isfahan University of Technology, Iran"
       }
     },
     "tabriz-university-of-medical-sciences": {
@@ -657,6 +686,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Tabriz University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tabriz University of Medical Sciences is ranked 11 in Iran and ranked 143th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Tabriz University of Medical Sciences, Iran"
       }
     },
     "sharif-university-of-technology": {
@@ -737,6 +769,17 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Sharif University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Sharif University is ranked first in Iran and ranked 56th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Sharif University of Technology in Tehran, Iran",
+        "indoor-view-1": "Interior view of Sharif University of Technology campus",
+        "faculty-building-1": "One of the faculty buildings at Sharif University of Technology",
+        "central-library": "Central library of Sharif University of Technology",
+        "indoor-view-2": "Interior view of Sharif University of Technology campus",
+        "building-1": "A building at Sharif University of Technology",
+        "distant-view-building": "Distant view of a university building at Sharif University of Technology",
+        "aerospace-faculty": "Aerospace Engineering Faculty building at Sharif University of Technology",
+        "green-space": "Green area on the campus of Sharif University of Technology"
       }
     },
     "iran-university-of-science-and-technology": {
@@ -812,6 +855,15 @@ interface Resources {
       "ranking": {
         "title": "Ranking of IUST University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, IUST is ranked third in Iran and ranked 79th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Iran University of Science and Technology in Tehran, Iran",
+        "electrical-faculty": "Faculty of Electrical Engineering building at Iran University of Science and Technology (IUST)",
+        "industrial-faculty": "Faculty of Industrial Engineering building at Iran University of Science and Technology",
+        "green-space": "Green space inside Iran University of Science and Technology campus",
+        "main-gate-inside": "Inner view of the main gate at Iran University of Science and Technology",
+        "library-interior": "Interior view of the central library at Iran University of Science and Technology",
+        "computer-faculty": "Faculty of Computer Engineering building at Iran University of Science and Technology"
       }
     },
     "isfahan-university-of-medical-sciences": {
@@ -886,6 +938,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Isfahan University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, IUMS is ranked 22th in Iran and ranked 251th in Asia."
+      },
+      "images-alt": {
+        "overview-campus": "Aerial view of Isfahan University of Medical Sciences campus"
       }
     },
     "shahid-beheshti-university-of-medical-sciences": {
@@ -960,6 +1015,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Shahid Beheshti University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, SBUMS is ranked 8th in Iran and ranked 131th in Asia."
+      },
+      "images-alt": {
+        "overview-campus": "Aerial view of Shahid Beheshti University of Medical Sciences campus"
       }
     },
     "tehran-university-of-medical-sciences": {
@@ -1034,6 +1092,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of TUMS",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, TUMS is ranked seventh in Iran and ranked 129th in Asia."
+      },
+      "images-alt": {
+        "building": "Tehran University of Medical Sciences building, Iran"
       }
     },
     "shiraz-university-of-medical-sciences": {
@@ -1098,6 +1159,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Shiraz University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Shiraz University of Medical Sciences is 26th first in Iran and ranked 251th in Asia."
+      },
+      "images-alt": {
+        "building": "Shiraz University of Medical Sciences building, Iran"
       }
     },
     "mashhad-university-of-medical-sciences": {
@@ -1159,6 +1223,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Mashhad University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, MUMS is ranked 18th in Iran and ranked 201th in Asia."
+      },
+      "images-alt": {
+        "building": "Mashhad University of Medical Sciences building, Iran"
       }
     },
     "ferdowsi-university-of-mashhad": {
@@ -1235,6 +1302,9 @@ interface Resources {
       "ranking": {
         "title": "Ranking of Ferdowsi University of Mashhad",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, FUM is ranked 14th in Iran and ranked 180th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Ferdowsi University of Mashhad, Iran"
       }
     },
     "university": {
@@ -1320,51 +1390,83 @@ interface Resources {
     "desc1": "Corporate restructuring refers to the process of reorganizing a man company's womas out",
     "university-registeration": {
       "title": "Univerity Registeration",
+      "desc": "We make the enrollment process for international students in Iran simple and stress-free. Here’s a step-by-step guide",
+      "button": "Read More"
     },
     "visa": {
       "title": "Visa",
+      "desc": "To study at Iranian universities, international students must obtain a student visa. This visa grants them legal entry and residency in Iran for academic purposes. The application process involves multiple steps, requiring specific documents and administrative follow-ups.",
+      "button": "Read More"
     },
     "persian-language-training": {
       "title": "Persian Language Training",
+      "desc": "For international students studying in Iran, learning Persian (Farsi) is a valuable skill that enhances both academic success and everyday interactions. Understanding Persian helps students communicate with professors and classmates, navigate daily life with ease, and immerse themselves in Iranian culture. Our Persian language courses are designed to help students quickly and effectively develop their language skills, making their stay in Iran smoother and more enjoyable.",
+      "button": "Read More"
     },
     "accommodation": {
       "title": "accommodation",
+      "desc": "One of the main concerns for international students after receiving university admission is finding suitable accommodation in Iran. We provide comprehensive rental and housing services to help students secure a safe and comfortable place to stay before they arrive in Iran.",
+      "button": "Read More"
     },
     "civic-education": {
       "title": "Civic Education",
+      "desc": "Moving to a new country for education involves more than just university life. International students in Iran often face challenges in understanding local laws, lifestyle, transportation, banking, and daily interactions. Our citizen orientation and public awareness training helps students quickly adapt to their new environment, ensuring a smooth and comfortable stay.",
+      "button": "Read More"
     },
     "cultural-orientation-programs": {
       "title": "Cultural Orientation Programs",
+      "desc": "Living in a new country is not just about studying—it’s also about understanding the customs, traditions, and way of life of the local people. Iran, with its deep-rooted history, cultural diversity, and hospitality, offers a unique environment for international students. Our cultural orientation programs help students understand Iranian society better, making daily interactions and academic life more enjoyable.",
+      "button": "Read More"
     },
     "part-time-job-opportunities": {
       "title": "Part-time Job Opportunities",
+      "desc": "Many international students seek part-time job opportunities alongside their studies to gain work experience, manage living expenses, and integrate into the Iranian work environment. We provide assistance in finding legal and suitable part-time jobs that match students' skills and availability, ensuring they can balance work and academic commitments effectively.",
+      "button": "Read More"
     },
     "social-networking-events": {
       "title": "Social Networking Events",
+      "desc": "Studying abroad is not just about academics; it’s also about meeting new people, expanding professional networks, and engaging in social activities. International students in Iran can participate in various social events and networking opportunities to connect with fellow students, university staff, and professionals, helping them enhance their educational and career prospects while enjoying their time in Iran.",
+      "button": "Read More"
     },
     "health-insurance-guidance": {
       "title": "Health Insurance Guidance",
+      "desc": "Healthcare and medical expenses can be costly, and having proper health insurance is essential for international students studying in Iran. A good health insurance plan helps students access medical services, reduce healthcare costs, and ensure peace of mind during their stay. We provide comprehensive guidance to help students choose and obtain the best insurance plan suited to their needs.",
+      "button": "Read More"
     },
     "academic-support-services": {
-      "title": "Academic Support Services",
+      "title": "Academic Support",
+      "desc": "Adapting to a new academic system can be challenging for international students. From understanding university regulations to excelling in coursework, students often need academic support to maximize their success. We provide comprehensive academic assistance to help students navigate their studies with confidence and achieve their educational goals.",
+      "button": "Read More"
     },
     "legal-assistance": {
       "title": "Legal Assistance",
+      "desc": "Navigating the legal system in a new country can be challenging, especially for international students unfamiliar with local laws. Our legal assistance services provide expert guidance on residency, work permits, and student rights, ensuring that you fully understand your legal responsibilities and protections while studying in Iran.",
+      "button": "Read More"
     },
     "transportation-assistance": {
       "title": "Transportation Assistance",
+      "desc": "Moving around in a new country can be challenging, especially for international students unfamiliar with local transport systems. We provide reliable and affordable transportation services to help students travel smoothly between their university, accommodation, and other destinations in Iran.",
+      "button": "Read More"
     },
     "financial-advice": {
       "title": "Financial Advice",
+      "desc": "Studying abroad comes with financial challenges, from managing tuition fees to covering daily expenses. Many international students need guidance on budgeting, banking, and financial planning to make the most of their resources. Our financial consultation services help students organize their finances efficiently, understand banking procedures, and explore available financial opportunities in Iran.",
+      "button": "Read More"
     },
     "emergency-support-services": {
-      "title": "Emergency Support Services",
+      "title": "Emergency Support",
+      "desc": "Living in a new country comes with unexpected challenges, and international students may face medical, legal, or safety emergencies at any time. Having a trusted emergency support system can provide peace of mind and help students handle critical situations efficiently. We offer 24/7 emergency support services to assist international students in navigating any urgent issues they encounter.",
+      "button": "Read More"
     },
     "extracurricular-activities": {
       "title": "Extracurricular Activities",
+      "desc": "University life is not just about attending lectures; it’s also about personal growth, networking, and enjoying new experiences. Extracurricular activities provide opportunities for students to develop new skills, meet people, and experience Iranian culture in a fun and engaging way. We offer a wide range of sports, cultural, artistic, and social activities designed to enrich the student experience in Iran.",
+      "button": "Read More"
     },
     "feedback-and-improvement-mechanisms": {
       "title": "Feedback and Improvement Mechanisms",
+      "desc": "We believe that continuous improvement is only possible with honest feedback from the students we serve. International students in Iran may have different experiences and expectations, and we are committed to listening, evaluating, and enhancing our services based on their feedback. Our structured feedback collection mechanism allows students to share their experiences, suggest improvements, and help shape better services for future students.",
+      "button": "Read More"
     },
   },
   "university-registeration": {

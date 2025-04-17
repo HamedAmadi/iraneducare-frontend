@@ -16,28 +16,35 @@
     "long-title": "Find Out About Our Service",
     "university-registration": {
         "title": "University Registration",
-        "desc": "At IranEduCare, we specialize in assisting international students with the university registration process in Iran. Our experienced team is well-versed in the intricacies of the Iranian educational system, guiding you in selecting the right program and institution that aligns with your academic goals. We manage every step of the registration process, from gathering necessary documents to completing application forms and tracking the status of your application. Our mission is to ensure that you embark on your educational journey with peace of mind, allowing you to focus on your studies and enjoy your experience in Iran. Contact us today to begin this exciting chapter of your life!"
+        "desc": "We make the enrollment process for international students in Iran simple and stress-free. Here’s a step-by-step guide",
+        "button": "Read More"
       },
       "visa": {
         "title": "Visa",
-        "desc": "Navigating the visa application process can be daunting, but at IranEduCare, we provide comprehensive guidance and education for international students seeking study visas. Our knowledgeable team is familiar with the latest visa regulations and requirements, ensuring that you receive expert assistance at every stage of your application. From preparing essential documents to filling out forms and monitoring your application status, we are here to simplify the process for you. Our goal is to make your visa acquisition as seamless as possible, allowing you to pursue your studies in Iran with confidence and ease."
+        "desc": "To study at Iranian universities, international students must obtain a student visa. This visa grants them legal entry and residency in Iran for academic purposes. The application process involves multiple steps, requiring specific documents and administrative follow-ups.",
+        "button": "Read More"
       },
       "accommodation": {
         "title": "accommodation",
-        "desc": "At IranEduCare, we specialize in providing rental services for international students seeking a comfortable and secure living environment during their studies in Iran. We understand that finding suitable housing can be a challenge, and we are here to assist you every step of the way in your search for the perfect home. We offer a diverse range of housing options, including private apartments and student accommodations, to meet your varying needs. All our options are strategically located near universities and public transportation, making it easy for you to commute and focus on your studies."
+        "desc": "One of the main concerns for international students after receiving university admission is finding suitable accommodation in Iran. We provide comprehensive rental and housing services to help students secure a safe and comfortable place to stay before they arrive in Iran.",
+        "button": "Read More"
       },
       "part-time-job-opportunities": {
         "title": "Part-time Job Opportunities",
-        "desc": "We understand the importance of financial independence for international students. At IranEduCare, we assist students in finding part-time job opportunities that align with their skills and schedules. Our team collaborates with local businesses and organizations to identify suitable job openings. Furthermore, we conduct workshops on resume writing, interview techniques, and job search strategies to enhance students' employability. Our services not only help students cover their living expenses but also provide them with valuable work experience in the Iranian job market."
+        "desc": "Many international students seek part-time job opportunities alongside their studies to gain work experience, manage living expenses, and integrate into the Iranian work environment. We provide assistance in finding legal and suitable part-time jobs that match students' skills and availability, ensuring they can balance work and academic commitments effectively.",
+        "button": "Read More"
       },
       "legal-assistance": {
         "title": "Legal Assistance",
-        "desc": "At IranEduCare, we recognize the importance of legal support for international students. Our Legal Assistance services provide expert guidance on residency and work permit issues. Our team of experienced lawyers offers comprehensive advice on local laws and regulations, ensuring that students understand their rights and responsibilities. We are dedicated to protecting students' interests and helping them navigate the legal landscape in Iran, thereby minimizing potential legal challenges."
+        "desc": "Navigating the legal system in a new country can be challenging, especially for international students unfamiliar with local laws. Our legal assistance services provide expert guidance on residency, work permits, and student rights, ensuring that you fully understand your legal responsibilities and protections while studying in Iran.",
+        "button": "Read More"
       },
       "transportation-assistance": {
         "title": "Transportation Assistance",
-        "desc": "Navigating a new city can be daunting for international students. At IranEduCare, we offer Transportation Assistance to help students move around the city with ease. Our team provides detailed information about public transportation options, including buses and subways, as well as organizing airport transfer services for newly arrived students. We aim to ensure that students have a smooth and comfortable transportation experience, allowing them to focus on their academic and personal goals."
-      }
+        "desc": "Moving around in a new country can be challenging, especially for international students unfamiliar with local transport systems. We provide reliable and affordable transportation services to help students travel smoothly between their university, accommodation, and other destinations in Iran.",
+        "button": "Read More"
+      },
+      "button": "Explore Services"
   },
   "home-university": {
     "short-title": "UNIVERSITIES",

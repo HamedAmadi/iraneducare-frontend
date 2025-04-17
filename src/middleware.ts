@@ -5,17 +5,27 @@ import { fallbackLng, languages, cookieName } from './app/i18n/settings'
 acceptLanguage.languages(languages)
 
 export const config = {
-  matcher: ['/((?!api|_next/static|_next/image|assets|favicon.ico|sw.js|site.webmanifest).*)']
+  matcher: ['/((?!api|_next/static|_next/image|assets|favicon.ico|images|sw.js|site.webmanifest).*)']
 }
 
 export function middleware(req: NextRequest) {
-  if (req.nextUrl.pathname.includes('icon') || req.nextUrl.pathname.includes('chrome')) {
+  const { pathname } = req.nextUrl
+
+  // مسیرهای خاص بدون تغییر رد بشن
+  if (
+    pathname.includes('icon') ||
+    pathname.includes('chrome') ||
+    pathname.startsWith('/images') // ✅ اضافه شده
+  ) {
     return NextResponse.next()
   }
 
-  let lng: string | undefined | null = req.cookies.get(cookieName)?.value || acceptLanguage.get(req.headers.get('Accept-Language')) || fallbackLng
+  let lng: string | undefined | null =
+    req.cookies.get(cookieName)?.value ||
+    acceptLanguage.get(req.headers.get('Accept-Language')) ||
+    fallbackLng
 
-  const pathSegments = req.nextUrl.pathname.split('/').filter(Boolean)
+  const pathSegments = pathname.split('/').filter(Boolean)
 
   // استخراج مسیر بعد از زبان
   let subPath = ''
@@ -26,12 +36,51 @@ export function middleware(req: NextRequest) {
   const response = NextResponse.next()
   response.headers.set('x-sub-path', subPath)
 
-  if (!languages.some(loc => req.nextUrl.pathname.startsWith(`/${loc}`)) && !req.nextUrl.pathname.startsWith('/_next')) {
-    return NextResponse.redirect(new URL(`/${lng}${req.nextUrl.pathname}`, req.url))
+  if (
+    !languages.some(loc => pathname.startsWith(`/${loc}`)) &&
+    !pathname.startsWith('/_next')
+  ) {
+    return NextResponse.redirect(new URL(`/${lng}${pathname}`, req.url))
   }
 
   return response
 }
+
+
+// import { NextResponse, NextRequest } from 'next/server'
+// import acceptLanguage from 'accept-language'
+// import { fallbackLng, languages, cookieName } from './app/i18n/settings'
+
+// acceptLanguage.languages(languages)
+
+// export const config = {
+//   matcher: ['/((?!api|_next/static|_next/image|assets|favicon.ico|sw.js|site.webmanifest).*)']
+// }
+
+// export function middleware(req: NextRequest) {
+//   if (req.nextUrl.pathname.includes('icon') || req.nextUrl.pathname.includes('chrome')) {
+//     return NextResponse.next()
+//   }
+
+//   let lng: string | undefined | null = req.cookies.get(cookieName)?.value || acceptLanguage.get(req.headers.get('Accept-Language')) || fallbackLng
+
+//   const pathSegments = req.nextUrl.pathname.split('/').filter(Boolean)
+
+//   // استخراج مسیر بعد از زبان
+//   let subPath = ''
+//   if (pathSegments.length > 1 && languages.includes(pathSegments[0])) {
+//     subPath = `/${pathSegments.slice(1).join('/')}`
+//   }
+
+//   const response = NextResponse.next()
+//   response.headers.set('x-sub-path', subPath)
+
+//   if (!languages.some(loc => req.nextUrl.pathname.startsWith(`/${loc}`)) && !req.nextUrl.pathname.startsWith('/_next')) {
+//     return NextResponse.redirect(new URL(`/${lng}${req.nextUrl.pathname}`, req.url))
+//   }
+
+//   return response
+// }
 
 
 

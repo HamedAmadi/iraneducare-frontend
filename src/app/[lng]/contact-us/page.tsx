@@ -11,6 +11,7 @@ import { useTranslation } from '@/app/i18n/client';
 import TelegramIcon from '@/public-components/svg-icons/Telegram/TelegramIcon';
 import WhatsAppIcon from '@/public-components/svg-icons/WhatsApp/WhatsAppIcon';
 import { useAddContactUs } from '@/hooks/contactus-hooks';
+import HeroBackground from '@/components/HeroBackground/HeroBackground';
 
 export type ContactUsForm = {
   fullName: string
@@ -46,17 +47,19 @@ const ContactUs = ({ params: { lng } }: { params: { lng: string } }) => {
 
   return (
     <>
-      <div className='relative w-full h-fit -z-10 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.png")]'>
-        <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div>
+      <HeroBackground imageSrc="/images/world-map.webp">
+        {/* <div className='relative w-full h-fit -z-10 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.png")]'> */}
+        {/* <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div> */}
         <div className="container">
-          <h1 className="pt-40 pb-28 text-center text-4xl md:text-5xl font-BYekan">{t('title')}</h1>
+          <h1 className="pt-[clamp(6rem,16vw,10rem)] pb-[clamp(4rem,10vw,7rem)] text-center text-[clamp(1.875rem,4vw,3rem)] text-text font-BYekan">{t('title')}</h1>
         </div>
-      </div>
-      <div className="py-20 container">
+        {/* </div> */}
+      </HeroBackground>
+      <div className="py-[clamp(1rem,8vw,6rem)] xs:container px-4">
         <div className="grid grid-cols-12 md:gap-10">
           <div className="col-span-12 lg:col-span-8">
-            <div className="p-10 rounded-[20px] bg-[#F9F4F1]">
-              <h2 className='text-4xl md:text-5xl text-text mb-7'>{t('form-title')}</h2>
+            <div className="p-10 rounded-[20px] bg-second12">
+              <h2 className='text-[clamp(1.5rem,4vw,2.25rem)] text-text mb-7'>{t('form-title')}</h2>
               <form onSubmit={handleSubmit(onSubmit)} noValidate>
                 <Input {...register('fullName',
                   {
@@ -96,7 +99,7 @@ const ContactUs = ({ params: { lng } }: { params: { lng: string } }) => {
                   }
                 }
                 )} type={"textarea"} name={"text"} errors={errors} placeholder={t('text-ph')} />
-                <button className='flex justify-center py-2.5 px-10 text-lg text-white bg-first hover:bg-second hover:text-text font-bold rounded-[50px]' disabled={isLoading} type="submit">
+                <button className='flex justify-center py-2.5 px-10 md:text-lg text-third bg-first hover:bg-second rounded-[50px]' disabled={isLoading} type="submit">
                   {isLoading && <ButtonSpinner />}
                   {t('button-text')}
                 </button>
@@ -104,8 +107,8 @@ const ContactUs = ({ params: { lng } }: { params: { lng: string } }) => {
             </div>
           </div>
           <div className="col-span-12 mt-10 md:mt-0 lg:col-span-4">
-            <h2 className='text-4xl md:text-5xl text-text mb-7'>{t('title2')}</h2>
-            <p className='text-lg text-text mb-6'>{t('second-desc')}</p>
+            <h2 className='text-[clamp(1.5rem,4vw,2.25rem)] text-text mb-7'>{t('title2')}</h2>
+            <p className='md:text-lg text-text mb-6'>{t('second-desc')}</p>
             <ul>
               {/* <li className='flex mb-[30px]'>
                 <div className="bg-[#F9F4F1] rounded-full flex w-[60px] h-[60px]">
@@ -117,7 +120,7 @@ const ContactUs = ({ params: { lng } }: { params: { lng: string } }) => {
                 </div>
               </li> */}
               <li className='flex mb-[30px]'>
-                <div className="bg-[#F9F4F1] rounded-full flex w-[60px] h-[60px]">
+                <div className="bg-second10 rounded-full flex w-[60px] h-[60px]">
                   <TelegramIcon className="flex-none m-auto w-7 h-7 fill-first" />
                 </div>
                 <div className="flex flex-col ms-4 justify-between">
@@ -126,7 +129,7 @@ const ContactUs = ({ params: { lng } }: { params: { lng: string } }) => {
                 </div>
               </li>
               <li className='flex mb-[30px]'>
-                <div className="bg-[#F9F4F1] rounded-full flex w-[60px] h-[60px]">
+                <div className="bg-second10 rounded-full flex w-[60px] h-[60px]">
                   <WhatsAppIcon className="flex-none m-auto align-middle w-7 h-7 fill-first" />
                 </div>
                 <div className="flex flex-col ms-4 justify-between">
@@ -135,7 +138,7 @@ const ContactUs = ({ params: { lng } }: { params: { lng: string } }) => {
                 </div>
               </li>
               <li className='flex mb-[30px]'>
-                <div className="bg-[#F9F4F1] rounded-full flex w-[60px] h-[60px]">
+                <div className="bg-second10 rounded-full flex w-[60px] h-[60px]">
                   <EnvelpeIcon className="flex-none m-auto w-7 h-7 fill-first" />
                 </div>
                 <div className="flex flex-col ms-4 justify-between">

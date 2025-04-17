@@ -1,7 +1,8 @@
 import { useTranslation } from "@/app/i18n";
 import { fallbackLng, languages } from "@/app/i18n/settings";
 import Image from 'next/image'
-import IUSTImage from '../../../../../public/images/IUST.jpg'
+import HeroBackground from "@/components/HeroBackground/HeroBackground";
+import Gallery from "@/components/Gallery/Gallery";
 
 const IranUniversityOfScienceAndTechnology = async ({ params: { lng } }: { params: { lng: string; } }) => {
 
@@ -10,24 +11,26 @@ const IranUniversityOfScienceAndTechnology = async ({ params: { lng } }: { param
 
     return (
         <>
-            <div className='relative w-full h-fit -z-10 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.png")]'>
-                <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div>
-                <div className="container">
-                    <h1 className="pt-40 pb-28 text-center text-text text-5xl font-BYekan">{t('iran-university-of-science-and-technology.title')}</h1>
+            <HeroBackground imageSrc="/images/world-map.webp">
+                {/* <div className='relative w-full h-fit -z-10 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.png")]'> */}
+                {/* <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div> */}
+                <div className="xs:container px-4">
+                    <h1 className="pt-[clamp(6rem,16vw,10rem)] pb-[clamp(4rem,10vw,7rem)] text-center text-[clamp(1.5rem,4vw,3rem)] text-text font-BYekan">{t('iran-university-of-science-and-technology.title')}</h1>
                 </div>
-            </div>
-            <div className="container py-16">
-                <div className="relative w-full mb-16">
-                    <Image fill className='mx-auto rounded-[20px] !relative' src={IUSTImage} alt='university image' />
+                {/* </div> */}
+            </HeroBackground>
+            <div className="xs:container py-[clamp(2rem,8vw,6rem)] px-4">
+                <div className="relative w-full lg:w-4/5 mx-auto mb-8 md:mb-16">
+                    <Image fill sizes="(min-width: 1024px) 80vw, 100vw" priority className='mx-auto rounded-[20px] !relative' src="/images/IUST/hero-l.webp" alt={t('iran-university-of-science-and-technology.images-alt.main-gate')} />
                 </div>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.university-introduction.title')}</h3>
-                    <p className="mb-2 text-lg text-[#335371]">{t('iran-university-of-science-and-technology.university-introduction.desc1')}</p>
-                    <p className="text-lg text-[#335371]">{t('iran-university-of-science-and-technology.university-introduction.desc2')}</p>
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.university-introduction.title')}</h3>
+                    <p className="mb-2 md:text-lg text-[#335371]">{t('iran-university-of-science-and-technology.university-introduction.desc1')}</p>
+                    <p className="md:text-lg text-[#335371]">{t('iran-university-of-science-and-technology.university-introduction.desc2')}</p>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.key-achievements.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.key-achievements.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">{t('iran-university-of-science-and-technology.key-achievements.li1')}</li>
                         <li className="mb-1">{t('iran-university-of-science-and-technology.key-achievements.li2')}</li>
                         <li className="mb-1">{t('iran-university-of-science-and-technology.key-achievements.li3')}</li>
@@ -35,12 +38,12 @@ const IranUniversityOfScienceAndTechnology = async ({ params: { lng } }: { param
                     </ul>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.vision-and-mission.title')}</h3>
-                    <p className="text-lg text-[#335371]">{t('iran-university-of-science-and-technology.vision-and-mission.desc')}</p>
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.vision-and-mission.title')}</h3>
+                    <p className="md:text-lg text-[#335371]">{t('iran-university-of-science-and-technology.vision-and-mission.desc')}</p>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.list-of-faculties.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.list-of-faculties.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">{t('iran-university-of-science-and-technology.list-of-faculties.li1')}</li>
                         <li className="mb-1">{t('iran-university-of-science-and-technology.list-of-faculties.li2')}</li>
                         <li className="mb-1">{t('iran-university-of-science-and-technology.list-of-faculties.li3')}</li>
@@ -56,9 +59,19 @@ const IranUniversityOfScienceAndTechnology = async ({ params: { lng } }: { param
                         <li className="mb-1">{t('iran-university-of-science-and-technology.list-of-faculties.li13')}</li>
                     </ul>
                 </section>
+                <div className="relative w-full lg:w-3/4 mx-auto h-auto aspect-[16/9] my-8 md:my-16">
+                    <Image
+                        src="/images/IUST/factuly.webp"
+                        alt={t('iran-university-of-science-and-technology.images-alt.computer-faculty')}
+                        fill
+                        className="rounded-[20px] mx-auto object-cover"
+                        sizes="(min-width: 1024px) 80vw, 100vw"
+                        priority={false}
+                    />
+                </div>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.notable-alumni.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.notable-alumni.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">
                             <span className="font-bold">{t('iran-university-of-science-and-technology.notable-alumni.name1')}</span>
                             :
@@ -82,8 +95,8 @@ const IranUniversityOfScienceAndTechnology = async ({ params: { lng } }: { param
                     </ul>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.welfare-facilities.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.welfare-facilities.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">
                             <span className="font-bold">{t('iran-university-of-science-and-technology.welfare-facilities.li-title1')}</span>
                             :
@@ -111,9 +124,19 @@ const IranUniversityOfScienceAndTechnology = async ({ params: { lng } }: { param
                         </li>
                     </ul>
                 </section>
+                <div className="relative w-full lg:w-3/4 mx-auto h-auto aspect-[16/9] my-8 md:my-16">
+                    <Image
+                        src="/images/IUST/welfare.webp"
+                        alt={t('iran-university-of-science-and-technology.images-alt.library-interior')}
+                        fill
+                        className="rounded-[20px] mx-auto object-cover"
+                        sizes="(min-width: 1024px) 80vw, 100vw"
+                        priority={false}
+                    />
+                </div>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.useful-info-for-students.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.useful-info-for-students.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">
                             <span className="font-bold">{t('iran-university-of-science-and-technology.useful-info-for-students.li-title1')}</span>
                             :
@@ -137,9 +160,20 @@ const IranUniversityOfScienceAndTechnology = async ({ params: { lng } }: { param
                     </ul>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.ranking.title')}</h3>
-                    <p className="text-lg text-[#335371]">{t('iran-university-of-science-and-technology.ranking.desc')}</p>
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('iran-university-of-science-and-technology.ranking.title')}</h3>
+                    <p className="md:text-lg text-[#335371]">{t('iran-university-of-science-and-technology.ranking.desc')}</p>
                 </section>
+                <Gallery
+                    title={t('photo-gallery')}
+                    images={[
+                        { src: "/images/IUST/20250304_144923.webp", alt: t('iran-university-of-science-and-technology.images-alt.electrical-faculty') },
+                        { src: "/images/IUST/20250304_145028.webp", alt: t('iran-university-of-science-and-technology.images-alt.industrial-faculty') },
+                        { src: "/images/IUST/20250304_145733.webp", alt: t('iran-university-of-science-and-technology.images-alt.green-space') },
+                        { src: "/images/IUST/20250304_145905.webp", alt: t('iran-university-of-science-and-technology.images-alt.main-gate-inside') },
+                        { src: "/images/IUST/factuly.webp", alt: t('iran-university-of-science-and-technology.images-alt.computer-faculty') },
+                        { src: "/images/IUST/welfare.webp", alt: t('iran-university-of-science-and-technology.images-alt.library-interior') },
+                    ]}
+                />
             </div>
         </>
     );

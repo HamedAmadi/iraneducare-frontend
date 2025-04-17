@@ -14,7 +14,7 @@ const Footer = async ({ lng }: { lng: string; }) => {
   const { t } = await useTranslation(lng, 'footer')
 
   return (
-    <footer className="relative pb-24">
+    <footer className="relative pb-16 md:pb-24">
       {/* <div className="sm:container px-4 relative"> */}
       {/* <div className="relative w-full bg-first p-4 sm:p-8 rounded-[20px] -bottom-20">
           <div className="flex flex-wrap w-full justify-center lg:flex-nowrap lg:justify-between">
@@ -30,25 +30,25 @@ const Footer = async ({ lng }: { lng: string; }) => {
           </div>
         </div> */}
       {/* </div> */}
-      <div className="absolute w-full h-full sm:h-full -z-50 bg-home-banner"></div>
-      <div className="container pt-24">
+      <div className="absolute w-full h-full sm:h-full -z-50 bg-footer"></div>
+      <div className="container pt-16 md:pt-24">
         <div className="grid grid-cols-12 gap-4 xs:gap-8">
           <div className="col-span-12 lg:col-span-5 sm:pe-28">
             <div className="w-52 mb-[30px]">
               <Logo />
             </div>
-            <p className="text-[#335371] text-lg">{t('about-us')}</p>
+            <p className="text-text text-lg">{t('about-us')}</p>
           </div>
           <div className="col-span-12 sm:col-span-6 lg:col-span-3">
             <h1 className="font-BYekan text-2xl font-bold mb-4 md:mb-[30px] text-[#131A2A]">{t('pages-title')}</h1>
             <ul>
-              <li className="text-[#335371] text-lg hover:text-first py-1"><Link className="py-1" href={`/${lng}`}>{t('home')}</Link></li>
-              <li className="text-[#335371] text-lg hover:text-first py-1"><Link className="py-1" href={`/${lng}/universities`}>{t('universities')}</Link></li>
-              {/* <li className="text-[#335371] text-lg hover:text-first py-1"><Link className="py-1" href={`/${lng}/services`}>{t('services')}</Link></li> */}
-              <li className="text-[#335371] text-lg hover:text-first py-1"><Link className="py-1" href={`/${lng}/services`}>{t('footer-services')}</Link></li>
-              {/* <li className="text-[#335371] text-lg hover:text-first py-1"><Link className="py-1" href={`/${lng}/blog`}>{t('blog')}</Link></li> */}
-              <li className="text-[#335371] text-lg hover:text-first py-1"><Link className="py-1" href="/contact-us">{t('contact-us')}</Link></li>
-              <li className="text-[#335371] text-lg hover:text-first py-1"><Link className="py-1" href={`/${lng}/about-us`}>{t('about-us-title')}</Link></li>
+              <li className="text-text text-lg hover:text-second py-1"><Link className="py-1" href={`/${lng}`}>{t('home')}</Link></li>
+              <li className="text-text text-lg hover:text-second py-1"><Link className="py-1" href={`/${lng}/universities`}>{t('universities')}</Link></li>
+              {/* <li className="text-text text-lg hover:text-second py-1"><Link className="py-1" href={`/${lng}/services`}>{t('services')}</Link></li> */}
+              <li className="text-text text-lg hover:text-second py-1"><Link className="py-1" href={`/${lng}/services`}>{t('footer-services')}</Link></li>
+              {/* <li className="text-text text-lg hover:text-second py-1"><Link className="py-1" href={`/${lng}/blog`}>{t('blog')}</Link></li> */}
+              <li className="text-text text-lg hover:text-second py-1"><Link className="py-1" href="/contact-us">{t('contact-us')}</Link></li>
+              <li className="text-text text-lg hover:text-second py-1"><Link className="py-1" href={`/${lng}/about-us`}>{t('about-us-title')}</Link></li>
             </ul>
           </div>
           <div className="col-span-12 sm:col-span-6 lg:col-span-3">
@@ -58,10 +58,10 @@ const Footer = async ({ lng }: { lng: string; }) => {
                 <LocationIcon className="flex-none me-2.5 mt-1.5 w-5 h-5 fill-[#335371]" />
                 {t('address')}
               </li> */}
-              <li className="text-[#335371] text-lg flex py-1"><EnvelopeIcon className="my-auto me-2.5 w-5 h-5 fill-[#335371]" />iraneducare.co@gmail.com</li>
-              <li className="text-[#335371] text-lg flex py-1"><PhoneIcon className="my-auto me-2.5 w-5 h-5 fill-[#335371]" /><span dir="ltr">+98903620541</span></li>
-              <li className="text-[#335371] text-lg flex py-1"><TelegramIcon className="my-auto me-2.5 w-5 h-5 fill-[#335371]" /><Link className="hover:text-first" href={'#'}>{t('telegram')}</Link></li>
-              <li className="text-[#335371] text-lg flex py-1"><WhatsAppIcon className="my-auto me-2.5 w-5 h-5 fill-[#335371]" /><Link className="hover:text-first" href={'#'}>{t('whatsapp')}</Link></li>
+              <li className="text-text text-lg flex py-1"><EnvelopeIcon className="my-auto me-2.5 w-5 h-5 fill-second" />iraneducare.co@gmail.com</li>
+              <li className="text-text text-lg flex py-1"><PhoneIcon className="my-auto me-2.5 w-5 h-5 fill-second" /><span dir="ltr">+98903620541</span></li>
+              <li className="text-text text-lg flex py-1"><TelegramIcon className="my-auto me-2.5 w-5 h-5 fill-second" /><Link className="hover:text-second" href={'#'}>{t('telegram')}</Link></li>
+              <li className="text-text text-lg flex py-1"><WhatsAppIcon className="my-auto me-2.5 w-5 h-5 fill-second" /><Link className="hover:text-second" href={'#'}>{t('whatsapp')}</Link></li>
             </ul>
           </div>
         </div>

@@ -1,5 +1,6 @@
 {
   "title": "Universities",
+  "photo-gallery": "Photo Gallery",
   "university-of-tehran": {
       "title": "University of Tehran",
       "button": "Read More",
@@ -77,6 +78,9 @@
       "ranking": {
         "title": "Ranking of Tehran University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tehran University is ranked fourth in Iran and ranked 100th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of University of Tehran, Iran"
       }
   },
   "amirkabir-university-of-technology": {
@@ -153,6 +157,9 @@
       "ranking":{
         "title":"Ranking of Amirkabir University",
         "desc":"According to the latest ranking announced for Asian universities by the times higher education database, Amirkabir University is ranked second in Iran and ranked 68th in Asia."
+      },
+      "images-alt":{
+        "main-gate":"Main entrance gate of Amirkabir University of Technology in Tehran, Iran"
       }
   },
   "shahid-beheshti-university": {
@@ -232,6 +239,9 @@
       "ranking": {
         "title": "Ranking of Shahid Beheshti University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, SBU is ranked 8th in Iran and ranked 131th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Shahid Beheshti University in Tehran, Iran"
       }
   },
   "university-of-tabriz": {
@@ -285,6 +295,9 @@
     "ranking": {
       "title": "Ranking of Tabriz University",
       "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tabriz University is ranked 6th in Iran and ranked 121th in Asia."
+    },
+    "images-alt": {
+      "main-gate": "Main entrance gate of Tabriz University, Iran"
     }
   },
   "kn-toosi-university-of-technology": {
@@ -351,6 +364,9 @@
       "ranking": {
         "title": "Ranking of K. N. Toosi University of Technology",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, K. N. Toosi University of Technology is ranked 17th in Iran and ranked 121th in Asia"
+      },
+      "images-alt": {
+        "Mechanical-faculty": "Faculty of Mechanical Engineering building at K. N. Toosi University of Technology"
       }
   },
   "shiraz-university": {
@@ -417,6 +433,9 @@
       "ranking": {
         "title": "Ranking of Shiraz University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Shiraz University is ranked fifth in Iran and ranked 118th in Asia."
+      },
+      "images-alt": {
+        "overview-campus": "Aerial view of Shiraz University campus"
       }
   },
   "isfahan-university-of-technology": {
@@ -480,6 +499,9 @@
       "ranking": {
         "title": "Ranking of Isfahan University of Technology",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database Isfahan University of Technology is ranked 9th in Iran and ranked 133th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Isfahan University of Technology, Iran"
       }
   },
   "tabriz-university-of-medical-sciences": {
@@ -544,6 +566,9 @@
       "ranking": {
         "title": "Ranking of Tabriz University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Tabriz University of Medical Sciences is ranked 11 in Iran and ranked 143th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Tabriz University of Medical Sciences, Iran"
       }
   },
   "sharif-university-of-technology": {
@@ -624,6 +649,17 @@
       "ranking": {
         "title": "Ranking of Sharif University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Sharif University is ranked first in Iran and ranked 56th in Asia."
+      },
+      "images-alt": {
+        "main-gate":"Main entrance gate of Sharif University of Technology in Tehran, Iran",
+        "indoor-view-1": "Interior view of Sharif University of Technology campus",
+        "faculty-building-1": "One of the faculty buildings at Sharif University of Technology",
+        "central-library": "Central library of Sharif University of Technology",
+        "indoor-view-2": "Interior view of Sharif University of Technology campus",
+        "building-1": "A building at Sharif University of Technology",
+        "distant-view-building": "Distant view of a university building at Sharif University of Technology",
+        "aerospace-faculty": "Aerospace Engineering Faculty building at Sharif University of Technology",
+        "green-space": "Green area on the campus of Sharif University of Technology"
       }
   },
   "iran-university-of-science-and-technology": {
@@ -698,6 +734,15 @@
       "ranking": {
         "title": "Ranking of IUST University",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, IUST is ranked third in Iran and ranked 79th in Asia."
+      },
+      "images-alt": {
+        "main-gate": "Main entrance gate of Iran University of Science and Technology in Tehran, Iran",
+        "electrical-faculty": "Faculty of Electrical Engineering building at Iran University of Science and Technology (IUST)",
+        "industrial-faculty": "Faculty of Industrial Engineering building at Iran University of Science and Technology",
+        "green-space": "Green space inside Iran University of Science and Technology campus",
+        "main-gate-inside": "Inner view of the main gate at Iran University of Science and Technology",
+        "library-interior": "Interior view of the central library at Iran University of Science and Technology",
+        "computer-faculty": "Faculty of Computer Engineering building at Iran University of Science and Technology"
       }
   },
   "isfahan-university-of-medical-sciences": {
@@ -772,6 +817,9 @@
       "ranking": {
         "title": "Ranking of Isfahan University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, IUMS is ranked 22th in Iran and ranked 251th in Asia."
+      },
+      "images-alt": {
+        "overview-campus": "Aerial view of Isfahan University of Medical Sciences campus"
       }
   },
   "shahid-beheshti-university-of-medical-sciences": {
@@ -846,6 +894,9 @@
       "ranking": {
         "title": "Ranking of Shahid Beheshti University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, SBUMS is ranked 8th in Iran and ranked 131th in Asia."
+      },
+      "images-alt": {
+        "overview-campus": "Aerial view of Shahid Beheshti University of Medical Sciences campus"
       }
   },
   "tehran-university-of-medical-sciences": {
@@ -920,6 +971,9 @@
       "ranking": {
         "title": "Ranking of TUMS",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, TUMS is ranked seventh in Iran and ranked 129th in Asia."
+      },
+      "images-alt": {
+        "building": "Tehran University of Medical Sciences building, Iran"
       }
   },
   "shiraz-university-of-medical-sciences": {
@@ -984,6 +1038,9 @@
       "ranking": {
         "title": "Ranking of Shiraz University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, Shiraz University of Medical Sciences is 26th first in Iran and ranked 251th in Asia."
+      },
+      "images-alt": {
+        "building": "Shiraz University of Medical Sciences building, Iran"
       }
   },
   "mashhad-university-of-medical-sciences": {
@@ -1045,6 +1102,9 @@
       "ranking": {
         "title": "Ranking of Mashhad University of Medical Sciences",
         "desc": "According to the latest ranking announced for Asian universities by the times higher education database, MUMS is ranked 18th in Iran and ranked 201th in Asia."
+      },
+      "images-alt": {
+        "building": "Mashhad University of Medical Sciences building, Iran"
       }
   },
   "ferdowsi-university-of-mashhad": {
@@ -1121,6 +1181,9 @@
     "ranking": {
     "title": "Ranking of Ferdowsi University of Mashhad",
     "desc": "According to the latest ranking announced for Asian universities by the times higher education database, FUM is ranked 14th in Iran and ranked 180th in Asia."
+    },
+    "images-alt": {
+        "main-gate": "Main entrance gate of Ferdowsi University of Mashhad, Iran"
     }
   },
   "university": {

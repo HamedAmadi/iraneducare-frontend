@@ -1,7 +1,7 @@
 import { useTranslation } from "@/app/i18n";
 import { fallbackLng, languages } from "@/app/i18n/settings";
 import Image from 'next/image'
-import KhajeNasirUniversityImage from '../../../../../public/images/khajenasir.jpg'
+import HeroBackground from "@/components/HeroBackground/HeroBackground";
 
 const KNToosiUniversityOfTechnology = async ({ params: { lng } }: { params: { lng: string; } }) => {
 
@@ -10,25 +10,26 @@ const KNToosiUniversityOfTechnology = async ({ params: { lng } }: { params: { ln
 
     return (
         <>
-            <div className='relative w-full h-fit -z-10 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.png")]'>
-                <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div>
-                <div className="container">
-                    <h1 className="pt-40 pb-28 text-center text-text text-5xl font-BYekan">{t('kn-toosi-university-of-technology.title')}</h1>
+            <HeroBackground imageSrc="/images/world-map.webp">
+                {/* <div className="absolute w-full h-full -z-50 opacity-30 bg-home-banner"></div> */}
+                <div className="xs:container px-4">
+                    <h1 className="pt-[clamp(6rem,16vw,10rem)] pb-[clamp(4rem,10vw,7rem)] text-center text-[clamp(1.5rem,4vw,3rem)] text-text font-BYekan">{t('kn-toosi-university-of-technology.title')}</h1>
                 </div>
-            </div>
-            <div className="container py-16">
-                <div className="relative w-full mb-16">
-                    <Image fill className='mx-auto rounded-[20px] !relative' src={KhajeNasirUniversityImage} alt='university image' />
+                {/* </div> */}
+            </HeroBackground>
+            <div className="xs:container py-[clamp(2rem,8vw,6rem)] px-4">
+                <div className="relative w-full lg:w-4/5 mx-auto mb-8 md:mb-16">
+                    <Image fill sizes="(min-width: 1024px) 80vw, 100vw" priority className='mx-auto rounded-[20px] !relative' src="/images/KNTU/hero.webp" alt={t('kn-toosi-university-of-technology.images-alt.Mechanical-faculty')} />
                 </div>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.university-introduction.title')}</h3>
-                    <p className="mb-2 text-lg text-[#335371]">{t('kn-toosi-university-of-technology.university-introduction.desc1')}</p>
-                    <p className="mb-2 text-lg text-[#335371]">{t('kn-toosi-university-of-technology.university-introduction.desc2')}</p>
-                    <p className="text-lg text-[#335371]">{t('kn-toosi-university-of-technology.university-introduction.desc3')}</p>
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.university-introduction.title')}</h3>
+                    <p className="mb-2 md:text-lg text-[#335371]">{t('kn-toosi-university-of-technology.university-introduction.desc1')}</p>
+                    <p className="mb-2 md:text-lg text-[#335371]">{t('kn-toosi-university-of-technology.university-introduction.desc2')}</p>
+                    <p className="md:text-lg text-[#335371]">{t('kn-toosi-university-of-technology.university-introduction.desc3')}</p>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.list-of-faculties.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.list-of-faculties.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">{t('kn-toosi-university-of-technology.list-of-faculties.li1')}</li>
                         <li className="mb-1">{t('kn-toosi-university-of-technology.list-of-faculties.li2')}</li>
                         <li className="mb-1">{t('kn-toosi-university-of-technology.list-of-faculties.li3')}</li>
@@ -42,8 +43,8 @@ const KNToosiUniversityOfTechnology = async ({ params: { lng } }: { params: { ln
                     </ul>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.notable-alumni.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.notable-alumni.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">
                             <span className="font-bold">{t('kn-toosi-university-of-technology.notable-alumni.name1')}</span>
                             :
@@ -72,8 +73,8 @@ const KNToosiUniversityOfTechnology = async ({ params: { lng } }: { params: { ln
                     </ul>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.welfare-facilities.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.welfare-facilities.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">
                             <span className="font-bold">{t('kn-toosi-university-of-technology.welfare-facilities.li-title1')}</span>
                             :
@@ -102,8 +103,8 @@ const KNToosiUniversityOfTechnology = async ({ params: { lng } }: { params: { ln
                     </ul>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.useful-info-for-students.title')}</h3>
-                    <ul className="ps-8 text-lg list-disc text-[#335371]">
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.useful-info-for-students.title')}</h3>
+                    <ul className="ps-8 md:text-lg list-disc text-[#335371]">
                         <li className="mb-1">
                             <span className="font-bold">{t('kn-toosi-university-of-technology.useful-info-for-students.li-title1')}</span>
                             :
@@ -132,8 +133,8 @@ const KNToosiUniversityOfTechnology = async ({ params: { lng } }: { params: { ln
                     </ul>
                 </section>
                 <section className="mb-8">
-                    <h3 className="text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.ranking.title')}</h3>
-                    <p className="text-lg text-[#335371]">{t('kn-toosi-university-of-technology.ranking.desc')}</p>
+                    <h3 className="text-xl md:text-2xl text-text font-bold mb-2">{t('kn-toosi-university-of-technology.ranking.title')}</h3>
+                    <p className="md:text-lg text-[#335371]">{t('kn-toosi-university-of-technology.ranking.desc')}</p>
                 </section>
             </div>
         </>

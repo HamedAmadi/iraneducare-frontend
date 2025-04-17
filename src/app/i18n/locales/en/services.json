@@ -3,51 +3,83 @@
   "title1": "Service Number One",
   "desc1": "Corporate restructuring refers to the process of reorganizing a man company's womas out",
   "university-registeration": {
-    "title": "Univerity Registeration"
+    "title": "Univerity Registeration",
+    "desc": "We make the enrollment process for international students in Iran simple and stress-free. Here’s a step-by-step guide",
+    "button": "Read More"
   },
-    "visa": {
-      "title": "Visa"
-    },
-    "persian-language-training": {
-      "title": "Persian Language Training"
-    },
-    "accommodation": {
-      "title": "accommodation"
-    },
-    "civic-education": {
-      "title": "Civic Education"
-    },
-    "cultural-orientation-programs": {
-      "title": "Cultural Orientation Programs"
-    },
-    "part-time-job-opportunities": {
-      "title": "Part-time Job Opportunities"
-    },
-    "social-networking-events": {
-      "title": "Social Networking Events"
-    },
-    "health-insurance-guidance": {
-      "title": "Health Insurance Guidance"
-    },
-    "academic-support-services": {
-      "title": "Academic Support Services"
-    },
-    "legal-assistance": {
-      "title": "Legal Assistance"
-    },
-    "transportation-assistance": {
-      "title": "Transportation Assistance"
-    },
-    "financial-advice": {
-      "title": "Financial Advice"
-    },
-    "emergency-support-services": {
-      "title": "Emergency Support Services"
-    },
-    "extracurricular-activities": {
-      "title": "Extracurricular Activities"
-    },
-    "feedback-and-improvement-mechanisms": {
-      "title": "Feedback and Improvement Mechanisms"
-    }
+  "visa": {
+    "title": "Visa",
+    "desc": "To study at Iranian universities, international students must obtain a student visa. This visa grants them legal entry and residency in Iran for academic purposes. The application process involves multiple steps, requiring specific documents and administrative follow-ups.",
+    "button": "Read More"
+  },
+  "persian-language-training": {
+    "title": "Persian Language Training",
+    "desc": "For international students studying in Iran, learning Persian (Farsi) is a valuable skill that enhances both academic success and everyday interactions. Understanding Persian helps students communicate with professors and classmates, navigate daily life with ease, and immerse themselves in Iranian culture. Our Persian language courses are designed to help students quickly and effectively develop their language skills, making their stay in Iran smoother and more enjoyable.",
+    "button": "Read More"
+  },
+  "accommodation": {
+    "title": "accommodation",
+    "desc": "One of the main concerns for international students after receiving university admission is finding suitable accommodation in Iran. We provide comprehensive rental and housing services to help students secure a safe and comfortable place to stay before they arrive in Iran.",
+    "button": "Read More"
+  },
+  "civic-education": {
+    "title": "Civic Education",
+    "desc": "Moving to a new country for education involves more than just university life. International students in Iran often face challenges in understanding local laws, lifestyle, transportation, banking, and daily interactions. Our citizen orientation and public awareness training helps students quickly adapt to their new environment, ensuring a smooth and comfortable stay.",
+    "button": "Read More"
+  },
+  "cultural-orientation-programs": {
+    "title": "Cultural Orientation Programs",
+    "desc": "Living in a new country is not just about studying—it’s also about understanding the customs, traditions, and way of life of the local people. Iran, with its deep-rooted history, cultural diversity, and hospitality, offers a unique environment for international students. Our cultural orientation programs help students understand Iranian society better, making daily interactions and academic life more enjoyable.",
+    "button": "Read More"
+  },
+  "part-time-job-opportunities": {
+    "title": "Part-time Job Opportunities",
+    "desc": "Many international students seek part-time job opportunities alongside their studies to gain work experience, manage living expenses, and integrate into the Iranian work environment. We provide assistance in finding legal and suitable part-time jobs that match students' skills and availability, ensuring they can balance work and academic commitments effectively.",
+    "button": "Read More"
+  },
+  "social-networking-events": {
+    "title": "Social Networking Events",
+    "desc": "Studying abroad is not just about academics; it’s also about meeting new people, expanding professional networks, and engaging in social activities. International students in Iran can participate in various social events and networking opportunities to connect with fellow students, university staff, and professionals, helping them enhance their educational and career prospects while enjoying their time in Iran.",
+    "button": "Read More"
+  },
+  "health-insurance-guidance": {
+    "title": "Health Insurance Guidance",
+    "desc": "Healthcare and medical expenses can be costly, and having proper health insurance is essential for international students studying in Iran. A good health insurance plan helps students access medical services, reduce healthcare costs, and ensure peace of mind during their stay. We provide comprehensive guidance to help students choose and obtain the best insurance plan suited to their needs.",
+    "button": "Read More"
+  },
+  "academic-support-services": {
+    "title": "Academic Support",
+    "desc": "Adapting to a new academic system can be challenging for international students. From understanding university regulations to excelling in coursework, students often need academic support to maximize their success. We provide comprehensive academic assistance to help students navigate their studies with confidence and achieve their educational goals.",
+    "button": "Read More"
+  },
+  "legal-assistance": {
+    "title": "Legal Assistance",
+    "desc": "Navigating the legal system in a new country can be challenging, especially for international students unfamiliar with local laws. Our legal assistance services provide expert guidance on residency, work permits, and student rights, ensuring that you fully understand your legal responsibilities and protections while studying in Iran.",
+    "button": "Read More"
+  },
+  "transportation-assistance": {
+    "title": "Transportation Assistance",
+    "desc": "Moving around in a new country can be challenging, especially for international students unfamiliar with local transport systems. We provide reliable and affordable transportation services to help students travel smoothly between their university, accommodation, and other destinations in Iran.",
+    "button": "Read More"
+  },
+  "financial-advice": {
+    "title": "Financial Advice",
+    "desc": "Studying abroad comes with financial challenges, from managing tuition fees to covering daily expenses. Many international students need guidance on budgeting, banking, and financial planning to make the most of their resources. Our financial consultation services help students organize their finances efficiently, understand banking procedures, and explore available financial opportunities in Iran.",
+    "button": "Read More"
+  },
+  "emergency-support-services": {
+    "title": "Emergency Support",
+    "desc": "Living in a new country comes with unexpected challenges, and international students may face medical, legal, or safety emergencies at any time. Having a trusted emergency support system can provide peace of mind and help students handle critical situations efficiently. We offer 24/7 emergency support services to assist international students in navigating any urgent issues they encounter.",
+    "button": "Read More"
+  },
+  "extracurricular-activities": {
+    "title": "Extracurricular Activities",
+    "desc": "University life is not just about attending lectures; it’s also about personal growth, networking, and enjoying new experiences. Extracurricular activities provide opportunities for students to develop new skills, meet people, and experience Iranian culture in a fun and engaging way. We offer a wide range of sports, cultural, artistic, and social activities designed to enrich the student experience in Iran.",
+    "button": "Read More"
+  },
+  "feedback-and-improvement-mechanisms": {
+    "title": "Feedback and Improvement Mechanisms",
+    "desc": "We believe that continuous improvement is only possible with honest feedback from the students we serve. International students in Iran may have different experiences and expectations, and we are committed to listening, evaluating, and enhancing our services based on their feedback. Our structured feedback collection mechanism allows students to share their experiences, suggest improvements, and help shape better services for future students.",
+    "button": "Read More"
+  }
 }
