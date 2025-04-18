@@ -17,25 +17,10 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
   return (
     <>
       <div className='relative'>
-        {/* <div className='absolute w-full h-full -z-50 bg-center bg-no-repeat bg-cover bg-[url("../../../public/images/world-map.webp")]'></div>
-        <div className="absolute w-full h-full -z-40 opacity-30 bg-home-banner"></div> */}
-        {/* <div className="absolute w-full h-full -z-50">
-          <Image
-            src="/images/world-map.webp" // نسخه WebP اگه داری بهتره
-            alt="World Map Background"
-            fill
-            className="object-cover object-center"
-            sizes="100vw"
-            priority
-          />
-        </div> */}
-
-        {/* لایه رنگی نیمه‌شفاف روی بکگراند */}
-        {/* <div className="absolute w-full h-full -z-40 opacity-30 bg-home-banner"></div> */}
         <HeroBackground imageSrc="/images/world-map.webp">
 
           <div className="container">
-            {/* <section className='pt-40 lg:pt-48 pb-16  '> */}
+
             <section className='pt-[clamp(8rem,20vw,12rem)] pb-[clamp(2rem,10vw,4rem)]'>
               <div className="grid lg:grid-cols-2 grid-cols-1 gap-5">
                 <div className="text-start">
@@ -98,36 +83,6 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
                 </div>
               </div>
             </section>
-            {/* <section className='pt-[clamp(8rem,20vw,12rem)] pb-[clamp(2rem,10vw,4rem)]'>
-            <div className="grid lg:grid-cols-2 grid-cols-1 gap-5">
-              <div className="text-start">
-                <div className='mb-8'>
-                  <h1 className={'text-[clamp(1.625rem,3vw,2.25rem)] font-bold mb-[clamp(1rem,1.5vw,2rem)]'}>{t('home-banner.title1')}</h1>
-                  <h1 className='text-[clamp(1.625rem,3vw,2.25rem)] font-bold '>{t('home-banner.title2')}</h1>
-                </div>
-                <p className='text-[clamp(1.125rem,2vw,1.25rem)]'>{t('home-banner.text')}</p>
-                <div className="relative mt-12">
-                  <Link href={`/${lng}/free-consultation`} className="relative inline-block px-[30px] py-[20px] lg:text-lg rounded-full bg-first text-white hover:bg-second">
-                    {t('free-consultation')}
-                  </Link>
-                </div>
-              </div>
-              <div className="hidden lg:block relative">
-                <div className="absolute mx-auto my-auto top-0 bottom-0 left-0 right-0 -z-30 w-[360px] h-[360px] xl:w-[400px] xl:h-[400px] bg-second rounded-full"></div>
-                <div className="flex justify-around">
-                  <div className="relative -mt-8 w-[240px] xl:w-[280px]">
-                    <Image className='rounded-2xl !relative object-cover' layout="fill" src="/images/amirkabir-banner.jpg" objectFit="cover" alt='university image' />
-                  </div>
-                  <div className="relative -mt-12 w-[240px] xl:w-[280px]">
-                    <Image className='rounded-2xl !relative object-cover' layout="fill" src="/images/IUST-banner.jpg" objectFit="cover" alt='university image' />
-                  </div>
-                </div>
-                <div className="relative mx-auto mt-4 w-[360px] xl:w-[380px]">
-                  <Image className='rounded-2xl !relative mx-auto object-cover' layout="fill" src="/images/tehran-banner.jpg" objectFit="cover" alt='university image' />
-                </div>
-              </div>
-            </div>
-          </section> */}
           </div>
         </HeroBackground>
       </div>
@@ -157,11 +112,6 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
           <ServiceCard icon={<Scale className='w-10 h-full m-auto text-first4 ' />} bgColor={'bg-second12'} hoverColor={'hover:bg-second11'} title={t('home-service.legal-assistance.title')} path={`/${lng}/services/legal-assistance`} desc={t('home-service.legal-assistance.desc')} buttonText={t('home-service.university-registration.button')} />
           <ServiceCard icon={<Car className='w-10 h-full m-auto text-first4 ' />} bgColor={'bg-first12'} hoverColor={'hover:bg-first11'} title={t('home-service.transportation-assistance.title')} path={`/${lng}/services/transportation-assistance`} desc={t('home-service.transportation-assistance.desc')} buttonText={t('home-service.university-registration.button')} />
         </div>
-        {/* <div className="text-center mt-14">
-          <Link href={`/${lng}/services`} className="inline-block mx-auto px-[30px] py-[20px] lg:text-lg rounded-full bg-first text-white hover:bg-second">
-            {t('home-service.button')}
-          </Link>
-        </div> */}
       </section>
       <section className="xs:container px-4 pt-12 pb-24">
         <h2 className={'font-bold font-BYekan text-center text-first mb-4 ' + (lng === 'en' ? 'text-base md:text-xl' : 'text-lg md:text-2xl')}>{t('home-university.short-title')}</h2>
