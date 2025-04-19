@@ -8,6 +8,8 @@ const AmirkabirUniversityOfTechnology = async ({ params: { lng } }: { params: { 
     if (languages.indexOf(lng) < 0) lng = fallbackLng
     const { t } = await useTranslation(lng, 'universities')
 
+    console.log('asdasd')
+
     return (
         <>
             <HeroBackground imageSrc="/images/world-map.webp">

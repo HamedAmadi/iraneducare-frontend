@@ -1,7 +1,10 @@
 import Link from "next/link";
 import Image from "next/image"
 import LogoImage from "../../../../public/images/logo.png"
+
 const Logo = () => {
+  console.log('asdasd')
+
   return (
     <Link href="/" className="relative block aspect-[530/133] w-full">
       <Image

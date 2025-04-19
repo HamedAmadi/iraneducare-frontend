@@ -27,37 +27,46 @@ export async function generateStaticParams() {
 //   const { t, i18n } = await useTranslation(lng)
 //   return {
 //     title: 'IranEduCare',
-//     content: 'We provide as much as possible information about opportunities and possibilities of Iranian universities for foreigner students.',
+//     description: 'We provide as much as possible information about opportunities and possibilities of Iranian universities for foreigner students.',
 //     icons: {
-//       icon: 'favicon.ico',
+//       icon: '/favicon.ico',
 //     },
 //   }
 // }
 
-export async function generateMetadata({ params: { lng } }: {
-  params: {
-    lng: string;
+export async function generateMetadata({ params: { lng } }: { params: { lng: keyof typeof titleMap } }) {
+  if (languages.indexOf(lng) < 0) lng = fallbackLng;
+  const baseUrl = 'https://iraneducare.ir';
+
+  const titleMap = {
+    en: 'IranEduCare | Study in Iran for International Students',
+    fa: 'تحصیل در ایران | خدمات برای دانشجویان بین‌المللی',
+    ar: 'الدراسة في إيران | دعم الطلاب الدوليين',
   };
-}) {
-  if (languages.indexOf(lng) < 0) lng = fallbackLng
-  // eslint-disable-next-line react-hooks/rules-of-hooks
-  const { t, i18n } = await useTranslation(lng)
+
+  const descMap = {
+    en: 'We help international students study in Iran. Get support for university admission, visa, accommodation, and more.',
+    fa: 'ما به دانشجویان بین‌المللی برای تحصیل در ایران کمک می‌کنیم؛ از پذیرش دانشگاه تا ویزا و اسکان.',
+    ar: 'نحن نساعد الطلاب الدوليين على الدراسة في إيران. التسجيل، التأشيرات، السكن والمزيد.',
+  };
+
   return {
-    title: 'IranEduCare',
-    description: 'We provide as much as possible information about opportunities and possibilities of Iranian universities for foreigner students.',
+    title: titleMap[lng],
+    description: descMap[lng],
+    alternates: {
+      canonical: `${baseUrl}/${lng}`,
+      languages: {
+        en: `${baseUrl}/en`,
+        fa: `${baseUrl}/fa`,
+        ar: `${baseUrl}/ar`,
+        'x-default': `${baseUrl}/en`,
+      }
+    },
     icons: {
       icon: '/favicon.ico',
     },
-  }
+  };
 }
-
-// export const metadata: Metadata = {
-//   title: "IranEduCare",
-//   description: "IranEduCare",
-//   icons: {
-//     icon: '/favicon.ico', // مسیر به favicon در public
-//   },
-// };
 
 const IRANSansWeb = localFont({
   src: '../../../public/fonts/IRANSans/_persian-number/woff2/IRANSansWeb(FaNum).woff2',

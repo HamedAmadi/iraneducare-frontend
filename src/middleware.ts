@@ -15,7 +15,8 @@ export function middleware(req: NextRequest) {
   if (
     pathname.includes('icon') ||
     pathname.includes('chrome') ||
-    pathname.startsWith('/images') // ✅ اضافه شده
+    pathname.startsWith('/images') || // ✅ اضافه شده
+    pathname.startsWith('/robots.txt') // ✅ اضافه شده
   ) {
     return NextResponse.next()
   }

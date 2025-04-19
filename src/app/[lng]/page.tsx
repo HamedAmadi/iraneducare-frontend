@@ -3,7 +3,6 @@ import { useTranslation } from '../i18n'
 import { languages, fallbackLng } from '../i18n/settings'
 import ServiceCard from '@/public-components/main/ServiceCard/ServiceCard'
 import UniversityCard from '@/public-components/main/UniversityCard/UniversityCard'
-// import HomeBlogs from '@/components/HomeBlogs/HomeBlogs'
 import Link from 'next/link'
 import { BadgeCheck, BriefcaseBusiness, Car, ClipboardCheck, GraduationCap, HousePlus, Scale } from 'lucide-react'
 import HeroBackground from '@/components/HeroBackground/HeroBackground'
@@ -18,9 +17,7 @@ const Home = async ({ params: { lng } }: { params: { lng: string; } }) => {
     <>
       <div className='relative'>
         <HeroBackground imageSrc="/images/world-map.webp">
-
           <div className="container">
-
             <section className='pt-[clamp(8rem,20vw,12rem)] pb-[clamp(2rem,10vw,4rem)]'>
               <div className="grid lg:grid-cols-2 grid-cols-1 gap-5">
                 <div className="text-start">
